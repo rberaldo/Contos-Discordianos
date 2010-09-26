@@ -1,6 +1,6 @@
 \select@language {brazilian}
 \contentsline {chapter}{Sum\'ario}{i}{section*.1}
-\contentsline {chapter}{Introdu\IeC {\c c}\IeC {\~a}o}{iv}{chapter*.2}
+\contentsline {chapter}{Introdu\IeC {\c c}\IeC {\~a}o}{ii}{chapter*.2}
 \contentsline {part}{\partnumberline {I}Felipe Schneider}{1}{part.1}
 \contentsline {chapter}{\chapternumberline {1}Sobre Macacos e Bananas}{2}{chapter.1}
 \contentsline {chapter}{\chapternumberline {2}Ode ao `quase'}{7}{chapter.2}
@@ -19,12 +19,13 @@
 \contentsline {chapter}{\chapternumberline {12}Go to hell\dots }{53}{chapter.12}
 \contentsline {chapter}{\chapternumberline {13}Na P\IeC {\'a}scoa}{57}{chapter.13}
 \contentsline {part}{\partnumberline {V}rev.~Peterson Espa\IeC {\c c}oporto}{63}{part.5}
-\contentsline {chapter}{\chapternumberline {14}Realidade..}{64}{chapter.14}
+\contentsline {chapter}{\chapternumberline {14}Realidade.\,.}{64}{chapter.14}
 \contentsline {chapter}{\chapternumberline {15}Sem Data}{69}{chapter.15}
 \contentsline {chapter}{\chapternumberline {16}Profissionalismo}{72}{chapter.16}
+\select@language {english}
 \contentsline {chapter}{\chapternumberline {17}Raul e sua Miser\IeC {\'a}vel Torta}{83}{chapter.17}
 \select@language {english}
-\select@language {brazilian}
+\select@language {english}
 \select@language {brazilian}
 \contentsline {chapter}{\chapternumberline {18}Quase Natal}{92}{chapter.18}
 \contentsline {chapter}{\chapternumberline {19}Devil}{100}{chapter.19}
