@@ -1,0 +1,30 @@
+\select@language {brazilian}
+\contentsline {chapter}{Sum\'ario}{i}{section*.1}
+\contentsline {chapter}{Introdu\IeC {\c c}\IeC {\~a}o}{iv}{chapter*.2}
+\contentsline {part}{\partnumberline {I}Felipe Schneider}{1}{part.1}
+\contentsline {chapter}{\chapternumberline {1}Sobre Macacos e Bananas}{2}{chapter.1}
+\contentsline {chapter}{\chapternumberline {2}Ode ao `quase'}{7}{chapter.2}
+\contentsline {part}{\partnumberline {II}Carol Peters}{9}{part.2}
+\contentsline {chapter}{\chapternumberline {3}Ao Teu com o Diabo}{10}{chapter.3}
+\contentsline {part}{\partnumberline {III}rev.~Rafael Beraldo}{16}{part.3}
+\contentsline {chapter}{\chapternumberline {4}Amor, Sublime Amor\dots }{17}{chapter.4}
+\contentsline {chapter}{\chapternumberline {5}Retirado de um velho peda\IeC {\c c}o de jornal}{21}{chapter.5}
+\contentsline {chapter}{\chapternumberline {6}Enquanto Isso, nos Bastidores da TV \& da Religi\IeC {\~a}o\dots }{24}{chapter.6}
+\contentsline {chapter}{\chapternumberline {7}Um conto em tr\IeC {\^e}s act\IeC {\'o}ides (que tamb\IeC {\'e}m serve como exerc\IeC {\'\i }cio proppiano da faculdade)}{27}{chapter.7}
+\contentsline {chapter}{\chapternumberline {8}Rom\IeC {\~a}o Brasil, o Deputado Invis\IeC {\'\i }vel, Justo como Nenhum Outro nesta Na\IeC {\c c}\IeC {\~a}o}{29}{chapter.8}
+\contentsline {part}{\partnumberline {IV}Duubhglas Juarezzz}{34}{part.4}
+\contentsline {chapter}{\chapternumberline {9}Deus cria o sistema digestivo --- Um dia no laborat\IeC {\'o}rio do \IeC {\'E}den}{35}{chapter.9}
+\contentsline {chapter}{\chapternumberline {10}O cachorro de Pavlov e o gato de Schr\IeC {\"o}dinger}{37}{chapter.10}
+\contentsline {chapter}{\chapternumberline {11}Martelo}{50}{chapter.11}
+\contentsline {chapter}{\chapternumberline {12}Go to hell\dots }{53}{chapter.12}
+\contentsline {chapter}{\chapternumberline {13}Na P\IeC {\'a}scoa}{57}{chapter.13}
+\contentsline {part}{\partnumberline {V}rev.~Peterson Espa\IeC {\c c}oporto}{63}{part.5}
+\contentsline {chapter}{\chapternumberline {14}Realidade..}{64}{chapter.14}
+\contentsline {chapter}{\chapternumberline {15}Sem Data}{69}{chapter.15}
+\contentsline {chapter}{\chapternumberline {16}Profissionalismo}{72}{chapter.16}
+\contentsline {chapter}{\chapternumberline {17}Raul e sua Miser\IeC {\'a}vel Torta}{83}{chapter.17}
+\select@language {english}
+\select@language {brazilian}
+\select@language {brazilian}
+\contentsline {chapter}{\chapternumberline {18}Quase Natal}{92}{chapter.18}
+\contentsline {chapter}{\chapternumberline {19}Devil}{100}{chapter.19}
