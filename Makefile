@@ -5,7 +5,7 @@
 #
 # DOC: the document
 
-DOC = base
+DOC = contos_discordianos
 
 ############################### PROGRAMS ###############################
 
@@ -17,7 +17,7 @@ MAKE = make
 
 $(DOC).pdf:
 	$(TEX) $(DOC).tex
-	bibtex $(DOC).aux
+#	bibtex $(DOC).aux
 	$(TEX) $(DOC).tex
 	makeindex $(DOC).idx
 	$(TEX) $(DOC).tex
