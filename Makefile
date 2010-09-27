@@ -18,7 +18,7 @@ MAKE = make
 $(DOC).pdf:
 	$(TEX) $(DOC).tex
 #	bibtex $(DOC).aux
-	$(TEX) $(DOC).tex
+#	$(TEX) $(DOC).tex
 	makeindex $(DOC).idx
 	$(TEX) $(DOC).tex
 

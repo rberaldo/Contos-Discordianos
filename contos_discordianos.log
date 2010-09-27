@@ -1,9 +1,8 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Arch Linux) (format=pdflatex 2010.7.30)  26 SEP 2010 19:00
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Arch Linux) (format=pdflatex 2010.7.30)  27 SEP 2010 12:28
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**./contos_discordianos.tex
+**contos_discordianos.tex
 (./contos_discordianos.tex
 LaTeX2e <2009/09/24>
 Babel <v3.8l> and hyphenation patterns for english, usenglishmax, dumylang, noh
@@ -787,6 +786,11 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 3
 )
 \Hy@SectionHShift=\skip176
 )
+\contos_discordianos@idxfile=\write4
+\openout4 = `contos_discordianos.idx'.
+
+
+Writing index file contos_discordianos.idx 
 (./contos_discordianos.aux (./capa.aux) (./primeiras_paginas.aux)
 (./introducao.aux) (./schneider/macacos.aux) (./schneider/ode.aux)
 (./carol/diabo.aux) (./revberaldo/amor.aux) (./revberaldo/o_hippie.aux)
@@ -798,27 +802,27 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 3
 (./peterson/quase_natal.aux) (./peterson/devil.aux) (./nota_final.aux))
 \openout1 = `contos_discordianos.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 20.
-LaTeX Font Info:    ... okay on input line 20.
-LaTeX Font Info:    Try loading font information for T1+fxlj on input line 20.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Try loading font information for T1+fxlj on input line 21.
 
 (/usr/share/texmf-dist/tex/latex/libertine/t1fxlj.fd
 File: t1fxlj.fd 2009/05/22 scaled font definitions for libertine T1/fxlj (Nm).
 )
 LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
-(Font)              scaled to size 12.0pt on input line 20.
+(Font)              scaled to size 12.0pt on input line 21.
 
 (/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -833,7 +837,7 @@ LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
 \MPnumerator=\count153
 \everyMPtoPDFconversion=\toks27
 )
-Package hyperref Info: Link coloring OFF on input line 20.
+Package hyperref Info: Link coloring OFF on input line 21.
  (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2009/12/18 v2.35 Cross-referencing by name of section
 
@@ -845,12 +849,12 @@ Package: gettitlestring 2009/12/18 v1.3 Cleanup title references (HO)
 )
 \c@section@level=\count154
 )
-LaTeX Info: Redefining \ref on input line 20.
-LaTeX Info: Redefining \pageref on input line 20.
+LaTeX Info: Redefining \ref on input line 21.
+LaTeX Info: Redefining \pageref on input line 21.
 
 (./contos_discordianos.out) (./contos_discordianos.out)
-\@outlinefile=\write4
-\openout4 = `contos_discordianos.out'.
+\@outlinefile=\write5
+\openout5 = `contos_discordianos.out'.
 
 \AtBeginShipoutBox=\box29
 
@@ -916,7 +920,7 @@ Package epstopdf Info: Source file: <cc.eps>
 (epstopdf)                    date: 2010-07-01 16:09:59
 (epstopdf)                    size: 53807 bytes
 (epstopdf)             Output file: <cc-eps-converted-to.pdf>
-(epstopdf)                    date: 2010-07-01 16:10:15
+(epstopdf)                    date: 2010-09-26 22:17:27
 (epstopdf)                    size: 5611 bytes
 (epstopdf)             Command: <epstopdf --outfile=cc-eps-converted-to.pdf cc.
 eps>
@@ -930,7 +934,7 @@ LaTeX Font Info:    Font shape `T1/fxlj/m/sc' will be
 (Font)              scaled to size 8.0pt on input line 63.
  [3 <./cc-eps-converted-to.pdf>])
 LaTeX Font Info:    Font shape `T1/fxlj/m/sc' will be
-(Font)              scaled to size 17.28pt on input line 34.
+(Font)              scaled to size 17.28pt on input line 35.
 
 (./contos_discordianos.toc
 LaTeX Font Info:    Font shape `T1/fxlj/bx/n' in size <12> not available
@@ -949,27 +953,31 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 4.
+LaTeX Font Info:    Font shape `T1/fxlj/bx/sc' in size <12> not available
+(Font)              Font shape `T1/fxlj/b/sc' tried instead on input line 12.
+LaTeX Font Info:    Font shape `T1/fxlj/b/sc' will be
+(Font)              scaled to size 12.0pt on input line 12.
  [1
 
 
-] [2]) [3]
+]) [2]
 \openout2 = `introducao.aux'.
 
- (./introducao.tex) [4
+ (./introducao.tex) [3
 
 
 ]
 LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
-(Font)              scaled to size 24.88pt on input line 39.
+(Font)              scaled to size 24.88pt on input line 40.
 LaTeX Font Info:    Font shape `T1/fxlj/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/fxlj/b/n' tried instead on input line 39.
+(Font)              Font shape `T1/fxlj/b/n' tried instead on input line 40.
 LaTeX Font Info:    Font shape `T1/fxlj/b/n' will be
-(Font)              scaled to size 24.88pt on input line 39.
+(Font)              scaled to size 24.88pt on input line 40.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.39 ...spagestyle{cleared}\part{Felipe Schneider}
+l.40 ...spagestyle{cleared}\part{Felipe Schneider}
                                                    [1
 
 
@@ -992,18 +1000,17 @@ l.11 D
 ]
 LaTeX Font Info:    Font shape `T1/fxlj/m/it' will be
 (Font)              scaled to size 12.0pt on input line 13.
-
-Overfull \hbox (8.86375pt too wide) in paragraph at lines 15--16
-\T1/fxlj/m/n/12 um. Um des-ses qua-dra-dos. Digo, cú-bi-cos. Na ver-dade, chama
-m-
- []
-
 pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.18 
       [3] [4]
+Overfull \hbox (4.0446pt too wide) in paragraph at lines 43--44
+[]\T1/fxlj/m/n/12 --- Mas eu não es-tou em ne-nhum tra-ta-mento desse tipo...E
+ []
+
+
 Overfull \hbox (2.6446pt too wide) in paragraph at lines 49--50
 []\T1/fxlj/m/n/12 --- Com cer-teza psi-qui-a-tra não sou. So-bre a guerra de Tr
 oia,
@@ -1076,15 +1083,17 @@ Overfull \hbox (12.3286pt too wide) in paragraph at lines 37--38
 quanto
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--44
-
- []
-
+LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
+(Font)              scaled to size 10.95pt on input line 40.
 [19]) [20]
 \openout2 = `revberaldo/o_hippie.aux'.
 
- (./revberaldo/o_hippie.tex [21
+ (./revberaldo/o_hippie.tex
+Overfull \hbox (11.97957pt too wide) in paragraph at lines 3--4
+\T1/fxlj/m/n/17.28 MAIS QUE AU-TO-A-JUDA, ES-CRI-TOR PRO-
+ []
+
+[21
 
 
 
@@ -1148,7 +1157,7 @@ Overfull \hbox (5.0957pt too wide) in paragraph at lines 29--30
  grupo
  []
 
-[31] (./decoracao.tex)) [32] [33] [34
+[31] (./decoracao.tex) [32]) [33] [34
 
 
 ]
@@ -1242,119 +1251,73 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 \openout2 = `peterson/profissionalismo.aux'.
 
 
-(./peterson/profissionalismo.tex
-Overfull \hbox (1.57977pt too wide) in paragraph at lines 9--10
-\T1/fxlj/m/n/12 pra não chegar perto. Pra não ron-dar. Ron-dar. Essa é a palavr
-a,
- []
-
-[72
+(./peterson/profissionalismo.tex [72
 
 
 
 ]
-Overfull \hbox (1.71173pt too wide) in paragraph at lines 11--12
-\T1/fxlj/m/n/12 não tinha re-ceio de fazer ex-ames de sangue e ob-ser-vava praz
-e-
- []
-
-
 Overfull \hbox (4.66379pt too wide) in paragraph at lines 13--14
-\T1/fxlj/m/n/12 dis-tante de suas as-pi-rações mais sec-re-tas. Suas as-pi-raçõ
-es eram
+\T1/fxlj/m/n/12 dis-tante de suas as-pi-ra-ções mais se-cre-tas. Suas as-pi-ra-
+ções eram
  []
 
 
 Overfull \hbox (2.25174pt too wide) in paragraph at lines 13--14
-\T1/fxlj/m/n/12 mente esse úl-timo. Vivia dizendo que ado-raria tra-bal-har num
-a
+\T1/fxlj/m/n/12 mente esse úl-timo. Vi-via di-zendo que ado-ra-ria tra-ba-lhar 
+numa
  []
 
 [73] [74]
 Overfull \hbox (0.42775pt too wide) in paragraph at lines 33--34
-\T1/fxlj/m/n/12 pois, à base de muitas con-ver-sas sutis e fal-sas gen-tilezas,
- Mau-
- []
-
-
-Overfull \hbox (1.81651pt too wide) in paragraph at lines 37--38
-[]\T1/fxlj/m/n/12 Maurício, car-regando e lig-ando com os cor-pos e re-cebendo
+\T1/fxlj/m/n/12 pois, à base de mui-tas con-ver-sas su-tis e fal-sas gen-ti-le-
+zas, Mau-
  []
 
 [75]
-Overfull \hbox (6.69177pt too wide) in paragraph at lines 41--42
-\T1/fxlj/m/n/12 gên-ci-a, não só acom-pan-hando outra pes-soa. Co-me-mo-ro-u nu
-ma
+Overfull \hbox (8.92056pt too wide) in paragraph at lines 41--42
+[]\T1/fxlj/m/n/12 Maurício pas-sou a tra-ba-lhar in-de-pen-den-te-mente, pela a
+gên-
  []
 
 [76]
 Overfull \hbox (1.75902pt too wide) in paragraph at lines 53--54
-\T1/fxlj/m/n/12 um pouco com isso, mas rel-e-vava. E as-sim ele tinha um amigo,
-
+\T1/fxlj/m/n/12 um pouco com isso, mas re-le-vava. E as-sim ele ti-nha um amigo
+,
  []
 
 [77]
 Overfull \hbox (6.3405pt too wide) in paragraph at lines 55--56
-[]\T1/fxlj/m/n/12 Então veio Setem-bro, um mês tu-mul-tado. Houve uma gran-
+[]\T1/fxlj/m/n/12 Então veio Se-tem-bro, um mês tu-mul-tado. Houve uma gran-
  []
 
 
 Overfull \hbox (0.31973pt too wide) in paragraph at lines 57--58
-\T1/fxlj/m/n/12 dia Mau-rí-cio fi-cou en-car-regado de matar um homem de meia-
- []
-
-
-Overfull \hbox (1.03975pt too wide) in paragraph at lines 57--58
-\T1/fxlj/m/n/12 tro-cadas. Fer-nando tinha o pés-simo hábito de fazer os serviç
-os
- []
-
-
-Overfull \hbox (0.36462pt too wide) in paragraph at lines 59--60
-[]\T1/fxlj/m/n/12 Na outra se-m-ana, cir-culava o boato de que Mau-rí-cio havia
-
+\T1/fxlj/m/n/12 dia Mau-rí-cio fi-cou en-car-re-gado de ma-tar um ho-mem de mei
+a-
  []
 
 
 Overfull \hbox (1.5526pt too wide) in paragraph at lines 61--62
-[]\T1/fxlj/m/n/12 Não era ver-dade; a quase casti-dade cir-cun-stan-cial de Mau
--
+[]\T1/fxlj/m/n/12 Não era ver-dade; a quase cas-ti-dade cir-cuns-tan-cial de Ma
+u-
  []
 
 
 Overfull \hbox (0.90776pt too wide) in paragraph at lines 61--62
-\T1/fxlj/m/n/12 mens. Nunca se es-pera que es-sas ``can-tadas de galo'' ou mesm
-o
+\T1/fxlj/m/n/12 mens. Nunca se es-pera que es-sas ``can-ta-das de galo'' ou mes
+mo
  []
 
 [78]
 Overfull \hbox (3.2926pt too wide) in paragraph at lines 69--70
-[]\T1/fxlj/m/n/12 Ele começou a tra-bal-har por fora; juntou-se com um amigo
+[]\T1/fxlj/m/n/12 Ele co-me-çou a tra-ba-lhar por fora; juntou-se com um amigo
  []
 
-
-Overfull \hbox (3.6318pt too wide) in paragraph at lines 69--70
-\T1/fxlj/m/n/12 tra-bal-hava na polí-cia, e fazia questão de não dar muita aten
-ção
- []
-
-
-Overfull \hbox (7.17178pt too wide) in paragraph at lines 69--70
-\T1/fxlj/m/n/12 a esses ca-sos civis de sone-gação, su-posta for-mação de quadr
-ilha
- []
-
-[79] [80] [81])
-Overfull \hbox (2.37177pt too wide) in paragraph at lines 89--63
-\T1/fxlj/m/n/12 coisas ``mais ou menos'' e pen-sar nas ``pelo menos''. Pelo men
-os
- []
-
-[82]
+[79] [80] [81]) [82]
 \openout2 = `peterson/raul_e_sua_miservel_torta.aux'.
 
  (./peterson/raul_e_sua_miservel_torta.tex
-Overfull \hbox (2.91165pt too wide) in paragraph at lines 9--10
+Overfull \hbox (2.91165pt too wide) in paragraph at lines 7--8
 \T1/fxlj/m/n/12 pra es-con-der a iden-ti-dade...), branco, preto, alto, baixo, 
 gordo,
  []
@@ -1364,19 +1327,24 @@ gordo,
 
 
 ] [84] [85]
-Overfull \hbox (1.8677pt too wide) in paragraph at lines 61--62
+Overfull \hbox (1.8677pt too wide) in paragraph at lines 59--60
 \T1/fxlj/m/n/12 lon-gín-quos pos-sí-veis desse ce-ná-rio hi-po-té-tico, pa-re-c
 endo mui-
  []
 
+
+Overfull \hbox (5.80403pt too wide) in paragraph at lines 61--62
+[]\T1/fxlj/m/n/12 --- Se...Você...Comer...Essa...Essa torta...O re-cheio...
+ []
+
 [86] [87]
-Overfull \hbox (2.4047pt too wide) in paragraph at lines 105--106
+Overfull \hbox (2.4047pt too wide) in paragraph at lines 103--104
 []\T1/fxlj/m/n/12 --- N-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã
 -Ã-Ã-
  []
 
 
-Overfull \hbox (3.30779pt too wide) in paragraph at lines 105--106
+Overfull \hbox (3.30779pt too wide) in paragraph at lines 103--104
 \T1/fxlj/m/n/12 Ã-Ã-Ã-Ã-ÃÃ-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-O-O-O-O-O-O-O-O-O-O-O-O-O-
 O-O!!!
  []
@@ -1394,15 +1362,19 @@ bo-
 
 
 
-] [93] [94] [95] [96] [97] [98]) [99]
+]
+Overfull \hbox (16.54861pt too wide) in paragraph at lines 29--30
+[]\T1/fxlj/m/n/12 --- Não, mas aqui nin-guém dá a mí-nima pra ele mesmo...Mas
+ []
+
+[93] [94] [95] [96] [97] [98]) [99]
 \openout2 = `peterson/devil.aux'.
 
  (./peterson/devil.tex [100
 
 
 
-] [101]
-[102]
+] [101] [102]
 Overfull \hbox (0.5598pt too wide) in paragraph at lines 47--48
 \T1/fxlj/m/n/12 agora. Suas ex-pres-sões eram como car-tas de um ba-ra-lho; era
 m
@@ -1420,7 +1392,19 @@ Overfull \hbox (5.09566pt too wide) in paragraph at lines 97--98
 r bom,
  []
 
-[105] [106] [107] [108] [109] [110]
+[105] [106]
+Overfull \hbox (6.8526pt too wide) in paragraph at lines 115--116
+[]\T1/fxlj/m/n/12 --- Porra, é claro, manda aí! --- eu sor-ria, bobo --- \T1/fx
+lj/m/it/12 Yay\T1/fxlj/m/n/12 ...Acho
+ []
+
+[107]
+Overfull \hbox (11.45177pt too wide) in paragraph at lines 137--138
+\T1/fxlj/m/n/12 gó-cio de fi-car sen-tado es-pe-rando as coi-sas acon-te-ce-rem
+...Hum-
+ []
+
+[108] [109] [110]
 Overfull \hbox (3.54384pt too wide) in paragraph at lines 175--176
 []\T1/fxlj/m/n/12 E virou-se, mais uma vez, de-sa-pa-re-cendo logo de-pois como
 
@@ -1434,11 +1418,11 @@ Overfull \hbox (3.54384pt too wide) in paragraph at lines 175--176
 
 
 ]
-\tf@toc=\write5
-\openout5 = `contos_discordianos.toc'.
+\tf@toc=\write6
+\openout6 = `contos_discordianos.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 72.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 72.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 73.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 73.
  (./contos_discordianos.aux (./capa.aux)
 (./primeiras_paginas.aux) (./introducao.aux) (./schneider/macacos.aux)
 (./schneider/ode.aux) (./carol/diabo.aux) (./revberaldo/amor.aux)
@@ -1449,29 +1433,28 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 72.
 (./peterson/sem_data.aux) (./peterson/profissionalismo.aux)
 (./peterson/raul_e_sua_miservel_torta.aux) (./peterson/quase_natal.aux)
 (./peterson/devil.aux) (./nota_final.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 72.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 73.
 Package rerunfilecheck Info: File `contos_discordianos.out' has not changed.
-(rerunfilecheck)             Checksum: 8CB3E27BD6BFEEEE16710F1972A2D9C4;1747.
+(rerunfilecheck)             Checksum: 8910EA9A4836433C88A052B3E78F8A39;1576.
  ) 
 Here is how much of TeX's memory you used:
- 22875 strings out of 493847
- 282252 string characters out of 3153979
- 511948 words of memory out of 3000000
- 25658 multiletter control sequences out of 15000+200000
- 111705 words of font info for 70 fonts, out of 3000000 for 9000
+ 22887 strings out of 493847
+ 282408 string characters out of 3153979
+ 510859 words of memory out of 3000000
+ 25663 multiletter control sequences out of 15000+200000
+ 124460 words of font info for 72 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 46i,12n,37p,1441b,391s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,12n,37p,1439b,391s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-dist/fonts/enc/dvips/libertine/xl-20.enc}{/usr/share/texmf-
 dist/fonts/enc/dvips/libertine/xl-8x.enc}{/usr/share/texmf-dist/fonts/enc/dvips
 /base/8r.enc}{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</
-usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/typ
-e1/public/libertine/fxlb.pfb></usr/share/texmf-dist/fonts/type1/public/libertin
-e/fxlr.pfb></usr/share/texmf-dist/fonts/type1/public/libertine/fxlri.pfb></usr/
-share/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb>
-Output written on contos_discordianos.pdf (119 pages, 602713 bytes).
+usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-
+dist/fonts/type1/public/libertine/fxlb.pfb></usr/share/texmf-dist/fonts/type1/p
+ublic/libertine/fxlr.pfb></usr/share/texmf-dist/fonts/type1/public/libertine/fx
+lri.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb>
+Output written on contos_discordianos.pdf (118 pages, 592838 bytes).
 PDF statistics:
- 719 PDF objects out of 1000 (max. 8388607)
- 148 named destinations out of 1000 (max. 500000)
+ 716 PDF objects out of 1000 (max. 8388607)
+ 153 named destinations out of 1000 (max. 500000)
  219 words of extra memory for PDF output out of 10000 (max. 10000000)
 
