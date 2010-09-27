@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Arch Linux) (format=pdflatex 2010.7.30)  27 SEP 2010 12:28
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Arch Linux) (format=pdflatex 2010.7.30)  27 SEP 2010 15:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1006,11 +1006,6 @@ been already used, duplicate ignored
                    \relax 
 l.18 
       [3] [4]
-Overfull \hbox (4.0446pt too wide) in paragraph at lines 43--44
-[]\T1/fxlj/m/n/12 --- Mas eu não es-tou em ne-nhum tra-ta-mento desse tipo...E
- []
-
-
 Overfull \hbox (2.6446pt too wide) in paragraph at lines 49--50
 []\T1/fxlj/m/n/12 --- Com cer-teza psi-qui-a-tra não sou. So-bre a guerra de Tr
 oia,
@@ -1019,19 +1014,7 @@ oia,
 ) [5] [6]
 \openout2 = `schneider/ode.aux'.
 
- (./schneider/ode.tex
-Overfull \hbox (5.10771pt too wide) in paragraph at lines 3--4
-\T1/fxlj/m/n/12 Uma pe-quena per-tur-ba-ção nas fo-lha-gens, um ge-mido do vent
-o,
- []
-
-
-Overfull \hbox (6.3046pt too wide) in paragraph at lines 5--6
-[]\T1/fxlj/m/n/12 Enquanto o tempo passa, ainda an-tes de o sol nas-cer, aquele
-
- []
-
-[7
+ (./schneider/ode.tex [7
 
 
 
@@ -1041,22 +1024,17 @@ Overfull \hbox (6.3046pt too wide) in paragraph at lines 5--6
 ]
 \openout2 = `carol/diabo.aux'.
 
- (./carol/diabo.tex
-Overfull \hbox (2.7405pt too wide) in paragraph at lines 16--17
-[]\T1/fxlj/m/n/12 Conhecendo meu sis-tema di-ges-tó-rio sen-sí-vel e já pre-ven
-do
- []
-
-[10
+ (./carol/diabo.tex [10
 
 
-] [11] [12]
-Overfull \hbox (1.39658pt too wide) in paragraph at lines 37--38
+] [11]
+[12]
+Overfull \hbox (1.39658pt too wide) in paragraph at lines 39--40
 []\T1/fxlj/m/n/12 Engraçado que sem-pre con-si-de-rei os ag-nós-ti-cos ``ateus 
 fra-
  []
 
-[13] [14]) [15] [16
+[13]) [14] [15
 
 
 ]
@@ -1074,55 +1052,39 @@ Overfull \hbox (0.43658pt too wide) in paragraph at lines 13--14
 
  []
 
-[17
+[16
 
 
-] [18]
-Overfull \hbox (12.3286pt too wide) in paragraph at lines 37--38
-[]\T1/fxlj/m/n/12 --- Schop, te digo mais: Ni-etzs-che con-cor-da-ria con-tigo 
-quanto
- []
-
-LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
-(Font)              scaled to size 10.95pt on input line 40.
-[19]) [20]
+] [17]
+LaTeX Font Info:    Font shape `T1/fxlj/m/it' will be
+(Font)              scaled to size 10.95pt on input line 47.
+ [18]) [19]
 \openout2 = `revberaldo/o_hippie.aux'.
 
- (./revberaldo/o_hippie.tex
-Overfull \hbox (11.97957pt too wide) in paragraph at lines 3--4
-\T1/fxlj/m/n/17.28 MAIS QUE AU-TO-A-JUDA, ES-CRI-TOR PRO-
- []
-
-[21
+ (./revberaldo/o_hippie.tex [20
 
 
 
-]
-Overfull \hbox (11.75108pt too wide) in paragraph at lines 19--20
-[]\T1/fxlj/b/n/12 G-P --- \T1/fxlj/m/n/12 A úl-tima per-gunta pri-meiro. Eu pre
--firo não classificá-
- []
-
-[22]) [23]
+] [21]) [22]
 \openout2 = `revberaldo/brasilia.aux'.
 
- (./revberaldo/brasilia.tex [24
+
+(./revberaldo/brasilia.tex [23
 
 
 
-] [25]) [26]
+] [24]) [25]
 \openout2 = `revberaldo/propp_conto.aux'.
 
+ (./revberaldo/propp_conto.tex
+[26
 
-(./revberaldo/propp_conto.tex [27
 
 
-
-]) [28]
+]) [27]
 \openout2 = `revberaldo/deputado_invisivel.aux'.
 
- (./revberaldo/deputado_invisivel.tex
-[29
+ (./revberaldo/deputado_invisivel.tex [28
 
 
 
@@ -1145,87 +1107,76 @@ File: ufxl20.fd 2009/05/22 scaled font definitions for libertine U/fxl20 (Nm).
 LaTeX Font Info:    Font shape `U/fxl20/m/n' will be
 (Font)              scaled to size 24.88pt on input line 2.
 )
-[30]
+[29]
 Overfull \hbox (3.48383pt too wide) in paragraph at lines 25--26
 []\T1/fxlj/m/n/12 E as-sim Ro-mão mar-cha pe-los cor-re-do-res cum-pri-men-tand
 o,
  []
 
-
-Overfull \hbox (5.0957pt too wide) in paragraph at lines 29--30
-\T1/fxlj/m/n/12 de tra-ba-lho, ser-vindo a po-pu-la-ção, e nunca en-con-trei um
- grupo
- []
-
-[31] (./decoracao.tex) [32]) [33] [34
+[30] (./decoracao.tex) [31]) [32] [33
 
 
 ]
 \openout2 = `dub/deus_sistema_digestivo.aux'.
 
  (./dub/deus_sistema_digestivo.tex
-[35
+[34
 
 
-]) [36]
+]) [35]
 \openout2 = `dub/cao_gato.aux'.
 
- (./dub/cao_gato.tex [37
+ (./dub/cao_gato.tex [36
 
 
 
-] [38]
-Overfull \hbox (5.52861pt too wide) in paragraph at lines 65--66
-[]\T1/fxlj/m/n/12 Do útero pra esse mundo...er...bizarro! Uma grande que-
- []
-
-[39] [40] [41] [42] [43]
-Overfull \hbox (1.54062pt too wide) in paragraph at lines 193--194
+] [37] [38] [39] [40] [41] [42]
+Overfull \hbox (1.54062pt too wide) in paragraph at lines 195--196
 []\T1/fxlj/m/n/12 ``Austríaco ma-níaco''. ``Aus-tríaco ma-níaco''. ``Aus-tríaco
  ma-
  []
 
 
-Overfull \hbox (1.10391pt too wide) in paragraph at lines 195--196
+Overfull \hbox (1.10391pt too wide) in paragraph at lines 197--198
 []\T1/fxlj/m/n/12 Então...O aus-tríaco ma-níaco ti-nha fe-ti-che por ga-tos tra
 n-
  []
 
-[44]
-Overfull \hbox (0.28067pt too wide) in paragraph at lines 223--224
+[43]
+Overfull \hbox (0.28067pt too wide) in paragraph at lines 225--226
 []\T1/fxlj/m/n/12 ``Cão são''. ``Aus-tríaco ma-níaco''. ``Cão são''. ``Aus-tría
 co ma-
  []
 
-[45] [46]
-Overfull \hbox (5.65259pt too wide) in paragraph at lines 265--266
+[44] [45]
+Overfull \hbox (5.65259pt too wide) in paragraph at lines 267--268
 []\T1/fxlj/m/n/12 Protegido de mim...Mas quem ia pro-te-ger o gato da caixa? 
  []
 
-[47] [48]) [49]
+[46] [47]) [48]
 \openout2 = `dub/martelo.aux'.
 
- (./dub/martelo.tex [50
+ (./dub/martelo.tex [49
 
 
 
-] [51]) [52]
+] [50]) [51]
 \openout2 = `dub/vai_pro_inferno.aux'.
 
  (./dub/vai_pro_inferno.tex
-[53
+[52
 
 
 
-] [54] [55]) [56]
+] [53] [54]) [55]
 \openout2 = `dub/na_pascoa.aux'.
 
- (./dub/na_pascoa.tex [57
+ (./dub/na_pascoa.tex [56
 
 
 
-] [58] [59] [60] (./decoracao.tex
-[61])) [62] [63
+] [57] [58] [59] (./decoracao.tex
+[60])) [61] [62
 
 
 ]
@@ -1237,83 +1188,37 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                \kern 2.00006pt
 (hyperref)                removed on input line 1.
 
-[64
+[63
 
 
-] [65] [66] [67]) [68]
+] [64] [65] [66]) [67]
 \openout2 = `peterson/sem_data.aux'.
 
- (./peterson/sem_data.tex [69
+ (./peterson/sem_data.tex [68
 
 
 
-] [70]) [71]
+] [69]) [70]
 \openout2 = `peterson/profissionalismo.aux'.
 
 
-(./peterson/profissionalismo.tex [72
+(./peterson/profissionalismo.tex [71
 
 
 
-]
-Overfull \hbox (4.66379pt too wide) in paragraph at lines 13--14
-\T1/fxlj/m/n/12 dis-tante de suas as-pi-ra-ções mais se-cre-tas. Suas as-pi-ra-
-ções eram
- []
-
-
-Overfull \hbox (2.25174pt too wide) in paragraph at lines 13--14
-\T1/fxlj/m/n/12 mente esse úl-timo. Vi-via di-zendo que ado-ra-ria tra-ba-lhar 
-numa
- []
-
-[73] [74]
-Overfull \hbox (0.42775pt too wide) in paragraph at lines 33--34
-\T1/fxlj/m/n/12 pois, à base de mui-tas con-ver-sas su-tis e fal-sas gen-ti-le-
-zas, Mau-
- []
-
-[75]
-Overfull \hbox (8.92056pt too wide) in paragraph at lines 41--42
-[]\T1/fxlj/m/n/12 Maurício pas-sou a tra-ba-lhar in-de-pen-den-te-mente, pela a
-gên-
- []
-
-[76]
-Overfull \hbox (1.75902pt too wide) in paragraph at lines 53--54
+] [72] [73] [74] [75]
+Overfull \hbox (1.75902pt too wide) in paragraph at lines 59--60
 \T1/fxlj/m/n/12 um pouco com isso, mas re-le-vava. E as-sim ele ti-nha um amigo
 ,
  []
 
-[77]
-Overfull \hbox (6.3405pt too wide) in paragraph at lines 55--56
-[]\T1/fxlj/m/n/12 Então veio Se-tem-bro, um mês tu-mul-tado. Houve uma gran-
- []
-
-
-Overfull \hbox (0.31973pt too wide) in paragraph at lines 57--58
+[76]
+Overfull \hbox (0.31973pt too wide) in paragraph at lines 65--66
 \T1/fxlj/m/n/12 dia Mau-rí-cio fi-cou en-car-re-gado de ma-tar um ho-mem de mei
 a-
  []
 
-
-Overfull \hbox (1.5526pt too wide) in paragraph at lines 61--62
-[]\T1/fxlj/m/n/12 Não era ver-dade; a quase cas-ti-dade cir-cuns-tan-cial de Ma
-u-
- []
-
-
-Overfull \hbox (0.90776pt too wide) in paragraph at lines 61--62
-\T1/fxlj/m/n/12 mens. Nunca se es-pera que es-sas ``can-ta-das de galo'' ou mes
-mo
- []
-
-[78]
-Overfull \hbox (3.2926pt too wide) in paragraph at lines 69--70
-[]\T1/fxlj/m/n/12 Ele co-me-çou a tra-ba-lhar por fora; juntou-se com um amigo
- []
-
-[79] [80] [81]) [82]
+[77] [78] [79] [80]) [81]
 \openout2 = `peterson/raul_e_sua_miservel_torta.aux'.
 
  (./peterson/raul_e_sua_miservel_torta.tex
@@ -1322,34 +1227,34 @@ Overfull \hbox (2.91165pt too wide) in paragraph at lines 7--8
 gordo,
  []
 
-[83
+[82
 
 
 
-] [84] [85]
+] [83] [84]
 Overfull \hbox (1.8677pt too wide) in paragraph at lines 59--60
 \T1/fxlj/m/n/12 lon-gín-quos pos-sí-veis desse ce-ná-rio hi-po-té-tico, pa-re-c
 endo mui-
  []
 
 
-Overfull \hbox (5.80403pt too wide) in paragraph at lines 61--62
-[]\T1/fxlj/m/n/12 --- Se...Você...Comer...Essa...Essa torta...O re-cheio...
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+[]\T1/fxlj/m/n/12 --- Se...Você...Comer...Essa...Essa torta...O re-
  []
 
-[86] [87]
-Overfull \hbox (2.4047pt too wide) in paragraph at lines 103--104
-[]\T1/fxlj/m/n/12 --- N-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã
--Ã-Ã-
+[85] [86]
+Underfull \hbox (badness 2426) in paragraph at lines 106--107
+[]\T1/fxlj/m/n/12 --- N-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-ÃÃ-Ã-Ã-Ã-Ã-
+Ã-
  []
 
 
-Overfull \hbox (3.30779pt too wide) in paragraph at lines 103--104
-\T1/fxlj/m/n/12 Ã-Ã-Ã-Ã-ÃÃ-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-O-O-O-O-O-O-O-O-O-O-O-O-O-
-O-O!!!
+Underfull \hbox (badness 3029) in paragraph at lines 106--107
+\T1/fxlj/m/n/12 Ã-Ã-Ã-Ã-Ã-Ã-Ã-Ã-O-O-O-O-O-O-O-O-O-O-O-O-O-O-O!!! --- Ex-cla-ma-
+ram,
  []
 
-[88] [89] [90]) [91]
+[87] [88] [89]) [90]
 \openout2 = `peterson/quase_natal.aux'.
 
  (./peterson/quase_natal.tex
@@ -1358,62 +1263,43 @@ Overfull \hbox (2.33257pt too wide) in paragraph at lines 13--14
 bo-
  []
 
-[92
+[91
 
 
 
 ]
-Overfull \hbox (16.54861pt too wide) in paragraph at lines 29--30
-[]\T1/fxlj/m/n/12 --- Não, mas aqui nin-guém dá a mí-nima pra ele mesmo...Mas
+Underfull \hbox (badness 2680) in paragraph at lines 30--31
+[]\T1/fxlj/m/n/12 --- Não, mas aqui nin-guém dá a mí-nima pra ele
  []
 
-[93] [94] [95] [96] [97] [98]) [99]
+[92] [93] [94] [95] [96] [97]) [98]
 \openout2 = `peterson/devil.aux'.
 
- (./peterson/devil.tex [100
+ (./peterson/devil.tex [99
 
 
 
-] [101] [102]
+] [100] [101]
 Overfull \hbox (0.5598pt too wide) in paragraph at lines 47--48
 \T1/fxlj/m/n/12 agora. Suas ex-pres-sões eram como car-tas de um ba-ra-lho; era
 m
  []
 
-[103] [104]
-Overfull \hbox (4.10852pt too wide) in paragraph at lines 93--94
-[]\T1/fxlj/m/n/12 Bem, não ha-via nin-guém ali mesmo. \T1/fxlj/m/it/12 Merda, m
-erda, merda\T1/fxlj/m/n/12 . 
+[102] [103] [104] [105]
+Underfull \hbox (badness 1688) in paragraph at lines 120--121
+[]\T1/fxlj/m/n/12 --- Porra, é claro, manda aí! --- eu sor-ria, bobo ---
  []
 
-
-Overfull \hbox (5.09566pt too wide) in paragraph at lines 97--98
-\T1/fxlj/m/n/12 mais calmo, se-reno, pra-ti-ca-mente um pro-fes-sor. Pro-fes-so
-r bom,
- []
-
-[105] [106]
-Overfull \hbox (6.8526pt too wide) in paragraph at lines 115--116
-[]\T1/fxlj/m/n/12 --- Porra, é claro, manda aí! --- eu sor-ria, bobo --- \T1/fx
-lj/m/it/12 Yay\T1/fxlj/m/n/12 ...Acho
- []
-
-[107]
-Overfull \hbox (11.45177pt too wide) in paragraph at lines 137--138
-\T1/fxlj/m/n/12 gó-cio de fi-car sen-tado es-pe-rando as coi-sas acon-te-ce-rem
-...Hum-
- []
-
-[108] [109] [110]
-Overfull \hbox (3.54384pt too wide) in paragraph at lines 175--176
+[106] [107] [108] [109]
+Overfull \hbox (3.54384pt too wide) in paragraph at lines 183--184
 []\T1/fxlj/m/n/12 E virou-se, mais uma vez, de-sa-pa-re-cendo logo de-pois como
 
  []
 
-) [111]
+) [110]
 \openout2 = `nota_final.aux'.
 
- (./nota_final.tex) [112
+ (./nota_final.tex) [111
 
 
 
@@ -1438,11 +1324,11 @@ Package rerunfilecheck Info: File `contos_discordianos.out' has not changed.
 (rerunfilecheck)             Checksum: 8910EA9A4836433C88A052B3E78F8A39;1576.
  ) 
 Here is how much of TeX's memory you used:
- 22887 strings out of 493847
- 282408 string characters out of 3153979
- 510859 words of memory out of 3000000
+ 22886 strings out of 493847
+ 282401 string characters out of 3153979
+ 510858 words of memory out of 3000000
  25663 multiletter control sequences out of 15000+200000
- 124460 words of font info for 72 fonts, out of 3000000 for 9000
+ 119481 words of font info for 72 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  46i,12n,37p,1439b,391s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-dist/fonts/enc/dvips/libertine/xl-20.enc}{/usr/share/texmf-
@@ -1452,9 +1338,9 @@ usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-
 dist/fonts/type1/public/libertine/fxlb.pfb></usr/share/texmf-dist/fonts/type1/p
 ublic/libertine/fxlr.pfb></usr/share/texmf-dist/fonts/type1/public/libertine/fx
 lri.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb>
-Output written on contos_discordianos.pdf (118 pages, 592838 bytes).
+Output written on contos_discordianos.pdf (117 pages, 592457 bytes).
 PDF statistics:
- 716 PDF objects out of 1000 (max. 8388607)
- 153 named destinations out of 1000 (max. 500000)
+ 712 PDF objects out of 1000 (max. 8388607)
+ 152 named destinations out of 1000 (max. 500000)
  219 words of extra memory for PDF output out of 10000 (max. 10000000)
 
