@@ -24,8 +24,8 @@
 
 % Tirando o número da página do \part.
 \aliaspagestyle{part}{empty}
+\aliaspagestyle{chapter}{empty}
 
-\checkandfixthelayout
 % Começa o documento
 \begin{document}
 
@@ -45,8 +45,9 @@
 \tableofcontents*
 
 \mainmatter
+\pagestyle{bringhurst}
 
-\thispagestyle{cleared}\part{Felipe Schneider}
+\part{Felipe Schneider}
 \include{schneider/macacos}
 \include{schneider/ode}
 
@@ -76,6 +77,7 @@
 \include{peterson/devil}
 
 \backmatter
+\pagestyle{empty}
 \include{nota_final}
 % Fim do livro
 
