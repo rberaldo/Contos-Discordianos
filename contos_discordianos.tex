@@ -1,4 +1,4 @@
-\documentclass[12pt,ebook,openright,final,oneside]{memoir}
+\documentclass[12pt,openright,final,twoside,extrafonts,ebook]{memoir}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[english,brazilian]{babel}
@@ -17,6 +17,12 @@
 	\makeevenfoot{bringhurst}{\thepage}{}{}
 	\makeoddfoot{bringhurst}{}{}{\thepage}
 
+\addtodef{\tableofcontents}{\clearpage\pagestyle{empty}}{}
+\setlength{\cftbeforechapterskip}{2.3pt plus 2.3pt}
+\renewcommand*{\insertchapterspace}{}
+
+
+\checkandfixthelayout
 % Começa o documento
 \begin{document}
 
@@ -31,9 +37,9 @@
 
 \frontmatter
 
-\tableofcontents
-
 \include{introducao}
+
+\tableofcontents
 
 \mainmatter
 
