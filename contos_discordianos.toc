@@ -1,5 +1,4 @@
 \select@language {brazilian}
-\contentsline {chapter}{Sum\'ario}{ii}{section*.2}
 \contentsline {part}{\partnumberline {I}Felipe Schneider}{1}{part.1}
 \contentsline {chapter}{\chapternumberline {1}Sobre Macacos e Bananas}{3}{chapter.1}
 \contentsline {chapter}{\chapternumberline {2}Ode ao `quase'}{9}{chapter.2}
@@ -8,7 +7,7 @@
 \contentsline {part}{\partnumberline {III}rev.~Rafael Beraldo}{19}{part.3}
 \contentsline {chapter}{\chapternumberline {4}Amor, Sublime Amor\dots }{21}{chapter.4}
 \contentsline {chapter}{\chapternumberline {5}Retirado de um velho peda\IeC {\c c}o de jornal}{25}{chapter.5}
-\contentsline {chapter}{\chapternumberline {6}Nos Bastidores da \textsc {TV} e da Religi\IeC {\~a}o}{29}{chapter.6}
+\contentsline {chapter}{\chapternumberline {6}Nos Bastidores da \textsc {tv} e da Religi\IeC {\~a}o}{29}{chapter.6}
 \contentsline {chapter}{\chapternumberline {7}Um conto em tr\IeC {\^e}s act\IeC {\'o}ides}{33}{chapter.7}
 \contentsline {chapter}{\chapternumberline {8}Rom\IeC {\~a}o Brasil, o Deputado Invis\IeC {\'\i }vel}{35}{chapter.8}
 \contentsline {part}{\partnumberline {IV}Duubhglas Juarezzz}{41}{part.4}

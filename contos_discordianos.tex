@@ -1,4 +1,4 @@
-\documentclass[12pt,openright,final,twoside,extrafonts,ebook]{memoir}
+\documentclass[12pt,openright,draft,twoside,extrafonts,ebook]{memoir}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[english,brazilian]{babel}
@@ -17,10 +17,13 @@
 	\makeevenfoot{bringhurst}{\thepage}{}{}
 	\makeoddfoot{bringhurst}{}{}{\thepage}
 
+% Melhorando a ToC
 \addtodef{\tableofcontents}{\clearpage\pagestyle{empty}}{}
 \setlength{\cftbeforechapterskip}{2.3pt plus 2.3pt}
 \renewcommand*{\insertchapterspace}{}
 
+% Tirando o número da página do \part.
+\aliaspagestyle{part}{empty}
 
 \checkandfixthelayout
 % Começa o documento
@@ -39,7 +42,7 @@
 
 \include{introducao}
 
-\tableofcontents
+\tableofcontents*
 
 \mainmatter
 
