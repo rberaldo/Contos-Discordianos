@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Arch Linux) (format=pdflatex 2010.7.30)  14 OCT 2010 14:50
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Arch Linux) (format=pdflatex 2010.7.30)  14 OCT 2010 15:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -720,7 +720,7 @@ Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
 (/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `draft' set `true' on input line 3209.
+Package hyperref Info: Option `final' set `true' on input line 3209.
 Package hyperref Info: Hyper figures OFF on input line 3290.
 Package hyperref Info: Link nesting OFF on input line 3295.
 Package hyperref Info: Hyper index ON on input line 3298.
@@ -841,11 +841,8 @@ LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
 \MPnumerator=\count153
 \everyMPtoPDFconversion=\toks27
 )
-
-Package hyperref Warning:  draft mode on.
-
 Package hyperref Info: Link coloring OFF on input line 33.
-(/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
+ (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2009/12/18 v2.35 Cross-referencing by name of section
 
 (/usr/share/texmf-dist/tex/latex/oberdiek/refcount.sty
@@ -858,6 +855,11 @@ Package: gettitlestring 2009/12/18 v1.3 Cleanup title references (HO)
 )
 LaTeX Info: Redefining \ref on input line 33.
 LaTeX Info: Redefining \pageref on input line 33.
+
+(./contos_discordianos.out) (./contos_discordianos.out)
+\@outlinefile=\write5
+\openout5 = `contos_discordianos.out'.
+
 \AtBeginShipoutBox=\box29
 
 Redoing nameref's sectioning
@@ -886,12 +888,14 @@ LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
 (Font)              scaled to size 9.0pt on input line 22.
 LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
 (Font)              scaled to size 17.28pt on input line 31.
- <eris_hand.png, id=11, 501.875pt x 271.0125pt>
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 35.
-
-(/usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
+ <eris_hand.png, id=111, 501.875pt x 271.0125pt>
+File: eris_hand.png Graphic file (type png)
+ <use eris_hand.png>
+[3 <./eris_hand.png>]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 55.
+ (/usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-) [3]
+)
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 55.
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -918,14 +922,17 @@ Package epstopdf Info: Source file: <cc.eps>
 eps>
 (epstopdf)             \includegraphics on input line 57.
 Package epstopdf Info: Output file is already uptodate.
-<cc-eps-converted-to.pdf, id=18, 305.14pt x 73.27374pt>
+<cc-eps-converted-to.pdf, id=120, 305.14pt x 73.27374pt>
+File: cc-eps-converted-to.pdf Graphic file (type pdf)
+
+<use cc-eps-converted-to.pdf>
 Underfull \hbox (badness 10000) in paragraph at lines 64--65
-[]\T1/fxlj/m/n/8 Edição por Ra-fael Be-raldo $\T1/cmtt/m/n/8 <[]revberaldo @
+[]\T1/fxlj/m/n/8 Edição por Ra-fael Be-raldo []$\T1/cmtt/m/n/8 <[]revberaldo @
  []
 
 LaTeX Font Info:    Font shape `T1/fxlj/m/sc' will be
 (Font)              scaled to size 8.0pt on input line 70.
-[4])
+[4 <./cc-eps-converted-to.pdf>])
 \openout2 = `introducao.aux'.
 
  (./introducao.tex
@@ -954,7 +961,7 @@ LaTeX Font Info:    Font shape `T1/fxlj/m/sc' will be
 )
 Overfull \hbox (0.45178pt too wide) in paragraph at lines 54--46
 \T1/fxlj/m/sc/12 alhazred\T1/fxlj/m/n/12 , Ab-dul. \T1/fxlj/m/it/12 Ne-cro-no-m
-i-con\T1/fxlj/m/n/12 . Tra-du-ção para o la-tim: Ola-|
+i-con\T1/fxlj/m/n/12 . Tra-du-ção para o la-tim: Ola-
  []
 
 
@@ -991,22 +998,43 @@ LaTeX Font Info:    Font shape `T1/fxlj/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/fxlj/b/n' tried instead on input line 53.
 LaTeX Font Info:    Font shape `T1/fxlj/b/n' will be
 (Font)              scaled to size 24.88pt on input line 53.
- [1
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.53 \part{Felipe Schneider}
+                             [1
 
 
-] [2]
+]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.53 \part{Felipe Schneider}
+                             [2]
 \openout2 = `schneider/macacos.aux'.
 
  (./schneider/macacos.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.11 D
+      epois de um banho, jÃ¡ estou pronto. Corro para pegar o Ã´nibus. No po...
+[3
 
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [4]
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.18 
+      [4]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5])
@@ -1040,7 +1068,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [15]
 Overfull \hbox (1.39658pt too wide) in paragraph at lines 39--40
 []\T1/fxlj/m/n/12 Engraçado que sem-pre con-si-de-rei os ag-nós-ti-cos ``ateus 
-fra-|
+fra-
  []
 
 [16]) [17] [18
@@ -1052,13 +1080,13 @@ fra-|
  (./revberaldo/amor.tex
 Overfull \hbox (1.50386pt too wide) in paragraph at lines 11--12
 []\T1/fxlj/m/n/12 O bar-ten-der co-me-çou a pre-pa-rar a be-bida do ve-lho Arth
-ur,|
+ur,
  []
 
 
 Overfull \hbox (0.43658pt too wide) in paragraph at lines 13--14
 []\T1/fxlj/m/n/12 --- Hoje, por volta das nove ho-ras da noite, aca-bou o drama
-|
+
  []
 
 
@@ -1119,14 +1147,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 Overfull \hbox (1.58864pt too wide) in paragraph at lines 17--18
-[]\T1/fxlj/m/n/12 João Bra-sil su-ado acorda em ba-nho ma-ria na cama d'hotel.|
-
+[]\T1/fxlj/m/n/12 João Bra-sil su-ado acorda em ba-nho ma-ria na cama d'hotel.
  []
 
 
 Overfull \hbox (0.43973pt too wide) in paragraph at lines 17--18
 \T1/fxlj/m/n/12 Que pe-sa-delo, por Deus, que pe-sa-delo! Não ser mais ou-vido.
-.. |
+.. 
  []
 
 (./decoracao.tex
@@ -1140,7 +1167,7 @@ LaTeX Font Info:    Font shape `U/fxl20/m/n' will be
 [36]
 Overfull \hbox (3.48383pt too wide) in paragraph at lines 25--26
 []\T1/fxlj/m/n/12 E as-sim Ro-mão mar-cha pe-los cor-re-do-res cum-pri-men-tand
-o,|
+o,
  []
 
 
@@ -1178,13 +1205,13 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 [50] [51]
 Overfull \hbox (1.54062pt too wide) in paragraph at lines 200--201
 []\T1/fxlj/m/n/12 ``Austríaco ma-níaco''. ``Aus-tríaco ma-níaco''. ``Aus-tríaco
- ma-|
+ ma-
  []
 
 
 Overfull \hbox (1.10391pt too wide) in paragraph at lines 202--203
 []\T1/fxlj/m/n/12 Então...O aus-tríaco ma-níaco ti-nha fe-ti-che por ga-tos tra
-n-|
+n-
  []
 
 
@@ -1193,7 +1220,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [52]
 Overfull \hbox (0.28067pt too wide) in paragraph at lines 230--231
 []\T1/fxlj/m/n/12 ``Cão são''. ``Aus-tríaco ma-níaco''. ``Cão são''. ``Aus-tría
-co ma-|
+co ma-
  []
 
 [53]
@@ -1201,7 +1228,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [54]
 Overfull \hbox (5.65259pt too wide) in paragraph at lines 272--273
-[]\T1/fxlj/m/n/12 Protegido de mim...Mas quem ia pro-te-ger o gato da caixa? |
+[]\T1/fxlj/m/n/12 Protegido de mim...Mas quem ia pro-te-ger o gato da caixa? 
  []
 
 
@@ -1269,6 +1296,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 \openout2 = `peterson/realidade.aux'.
 
  (./peterson/realidade.tex
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                \kern 2.00006pt
+(hyperref)                removed on input line 1.
+
+
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [75
@@ -1323,7 +1356,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [89]
 Overfull \hbox (1.75902pt too wide) in paragraph at lines 59--60
 \T1/fxlj/m/n/12 um pouco com isso, mas re-le-vava. E as-sim ele ti-nha um amigo
-,|
+,
  []
 
 
@@ -1332,7 +1365,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [90]
 Overfull \hbox (0.31973pt too wide) in paragraph at lines 65--66
 \T1/fxlj/m/n/12 dia Mau-rí-cio fi-cou en-car-re-gado de ma-tar um ho-mem de mei
-a-|
+a-
  []
 
 
@@ -1358,7 +1391,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Overfull \hbox (2.91165pt too wide) in paragraph at lines 7--8
 \T1/fxlj/m/n/12 pra es-con-der a iden-ti-dade...), branco, preto, alto, baixo, 
-gordo,|
+gordo,
  []
 
 [97]
@@ -1370,7 +1403,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [99]
 Overfull \hbox (1.8677pt too wide) in paragraph at lines 59--60
 \T1/fxlj/m/n/12 lon-gín-quos pos-sí-veis desse ce-ná-rio hi-po-té-tico, pa-re-c
-endo mui-|
+endo mui-
  []
 
 
@@ -1416,7 +1449,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 ]
 Overfull \hbox (2.33257pt too wide) in paragraph at lines 13--14
 []\T1/fxlj/m/n/12 --- Quê? --- disse ele, rindo, acor-dando de suas ilu-sões bo
-bo-|
+bo-
  []
 
 
@@ -1465,7 +1498,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [117]
 Overfull \hbox (0.5598pt too wide) in paragraph at lines 47--48
 \T1/fxlj/m/n/12 agora. Suas ex-pres-sões eram como car-tas de um ba-ra-lho; era
-m|
+m
  []
 
 
@@ -1500,7 +1533,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
  [125]
 Overfull \hbox (3.54384pt too wide) in paragraph at lines 185--186
 []\T1/fxlj/m/n/12 E virou-se, mais uma vez, de-sa-pa-re-cendo logo de-pois como
-|
+
  []
 
 ) [126]
@@ -1508,7 +1541,7 @@ Overfull \hbox (3.54384pt too wide) in paragraph at lines 185--186
 
  (./nota_final.tex
 Overfull \hbox (1.49576pt too wide) in paragraph at lines 3--5
- [] |
+ [] 
  []
 
 
@@ -1523,8 +1556,8 @@ Overfull \vbox (20.00516pt too high) has occurred while \output is active []
 
 
 [128]) [129]
-\tf@toc=\write5
-\openout5 = `contos_discordianos.toc'.
+\tf@toc=\write6
+\openout6 = `contos_discordianos.toc'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 87.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 87.
@@ -1538,26 +1571,27 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 87.
 (./peterson/profissionalismo.aux) (./peterson/raul_e_sua_miservel_torta.aux)
 (./peterson/quase_natal.aux) (./peterson/devil.aux) (./nota_final.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 87.
+Package rerunfilecheck Info: File `contos_discordianos.out' has not changed.
+(rerunfilecheck)             Checksum: 8284774A0BB4E65465C303C88FE3D830;1476.
  ) 
 Here is how much of TeX's memory you used:
- 22696 strings out of 493847
- 280642 string characters out of 3153979
- 509562 words of memory out of 3000000
- 25625 multiletter control sequences out of 15000+200000
- 133217 words of font info for 81 fonts, out of 3000000 for 9000
+ 22915 strings out of 493847
+ 282688 string characters out of 3153979
+ 510995 words of memory out of 3000000
+ 25666 multiletter control sequences out of 15000+200000
+ 132904 words of font info for 80 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 46i,12n,37p,1439b,418s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,12n,37p,1439b,424s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-dist/fonts/enc/dvips/libertine/xl-20.enc}{/usr/share/texmf-
 dist/fonts/enc/dvips/libertine/xl-8x.enc}{/usr/share/texmf-dist/fonts/enc/dvips
 /base/8r.enc}{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}</
 usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-
 dist/fonts/type1/public/libertine/fxlb.pfb></usr/share/texmf-dist/fonts/type1/p
 ublic/libertine/fxlr.pfb></usr/share/texmf-dist/fonts/type1/public/libertine/fx
-lri.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb></usr/s
-hare/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on contos_discordianos.pdf (141 pages, 583555 bytes).
+lri.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sftt0800.pfb>
+Output written on contos_discordianos.pdf (141 pages, 609786 bytes).
 PDF statistics:
- 493 PDF objects out of 1000 (max. 8388607)
- 0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 805 PDF objects out of 1000 (max. 8388607)
+ 174 named destinations out of 1000 (max. 500000)
+ 203 words of extra memory for PDF output out of 10000 (max. 10000000)
 
