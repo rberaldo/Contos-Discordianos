@@ -10,9 +10,9 @@
 \widowpenalty=10000
 \clubpenalty=10000
 
-% Escolhendo um estilo de capitulos:
+% Escolhendo um estilo de capitulos
 \chapterstyle{bringhurst}
-% Criando um modelo de páginas:
+% Criando um modelo de páginas
 \makepagestyle{bringhurst}
 	\makeevenfoot{bringhurst}{\thepage}{}{}
 	\makeoddfoot{bringhurst}{}{}{\thepage}
@@ -22,9 +22,12 @@
 \setlength{\cftbeforechapterskip}{2.3pt plus 2.3pt}
 \renewcommand*{\insertchapterspace}{}
 
-% Tirando o número da página do \part.
+% Tirando o número da página do \part
 \aliaspagestyle{part}{empty}
 \aliaspagestyle{chapter}{empty}
+
+% Tirando o escrito “Parte x” do \part
+\renewcommand{\printpartname}{}
 
 % Começa o documento
 \begin{document}
