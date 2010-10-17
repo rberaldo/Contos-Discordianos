@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/Arch Linux) (format=pdflatex 2010.10.16)  16 OCT 2010 15:32
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/Arch Linux) (format=pdflatex 2010.10.16)  17 OCT 2010 20:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -793,6 +793,37 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip185
 )
+(/usr/share/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2010/08/08 v0.4k Insert pages of external PDF documents (AM)
+
+(/usr/share/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2010/06/08 v2.0b eso-pic (RN)
+
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+(/usr/share/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2010/08/08 v0.4k Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box28
+\AM@toc@title=\toks25
+\c@AM@survey=\count152
+\AM@templatesizebox=\box29
+)
 \contos_discordianos@idxfile=\write4
 \openout4 = `contos_discordianos.idx'.
 
@@ -802,16 +833,16 @@ Writing index file contos_discordianos.idx
 LaTeX Warning: Unused global option(s):
     [extrafonts].
 
-(./contos_discordianos.aux (./capa.aux) (./epigrafe.aux) (./titlepage.aux)
-(./copyright.aux) (./introducao.aux) (./schneider/macacos.aux)
-(./schneider/ode.aux) (./carol/diabo.aux) (./revberaldo/amor.aux)
-(./revberaldo/o_hippie.aux) (./revberaldo/brasilia.aux)
-(./revberaldo/propp_conto.aux) (./revberaldo/deputado_invisivel.aux)
-(./dub/deus_sistema_digestivo.aux) (./dub/cao_gato.aux) (./dub/martelo.aux)
-(./dub/vai_pro_inferno.aux) (./dub/na_pascoa.aux) (./peterson/realidade.aux)
-(./peterson/sem_data.aux) (./peterson/profissionalismo.aux)
-(./peterson/raul_e_sua_miservel_torta.aux) (./peterson/quase_natal.aux)
-(./peterson/devil.aux) (./big_five.aux) (./colofon.aux))
+(./contos_discordianos.aux (./epigrafe.aux) (./titlepage.aux) (./copyright.aux)
+(./introducao.aux) (./schneider/macacos.aux) (./schneider/ode.aux)
+(./carol/diabo.aux) (./revberaldo/amor.aux) (./revberaldo/o_hippie.aux)
+(./revberaldo/brasilia.aux) (./revberaldo/propp_conto.aux)
+(./revberaldo/deputado_invisivel.aux) (./dub/deus_sistema_digestivo.aux)
+(./dub/cao_gato.aux) (./dub/martelo.aux) (./dub/vai_pro_inferno.aux)
+(./dub/na_pascoa.aux) (./peterson/realidade.aux) (./peterson/sem_data.aux)
+(./peterson/profissionalismo.aux) (./peterson/raul_e_sua_miservel_torta.aux)
+(./peterson/quase_natal.aux) (./peterson/devil.aux) (./big_five.aux)
+(./colofon.aux))
 \openout1 = `contos_discordianos.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
@@ -829,8 +860,7 @@ LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
 LaTeX Font Info:    ... okay on input line 34.
 LaTeX Font Info:    Try loading font information for T1+fxlj on input line 34.
-
-(/usr/share/texmf-dist/tex/latex/libertine/t1fxlj.fd
+ (/usr/share/texmf-dist/tex/latex/libertine/t1fxlj.fd
 File: t1fxlj.fd 2010/08/30 scaled font definitions for libertine T1/fxlj (Nm).
 )
 LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
@@ -838,18 +868,18 @@ LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
 
 (/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count152
+\scratchcounter=\count153
 \scratchdimen=\dimen155
-\scratchbox=\box28
-\nofMPsegments=\count153
-\nofMParguments=\count154
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count155
+\scratchbox=\box30
+\nofMPsegments=\count154
+\nofMParguments=\count155
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count156
 \MPscratchDim=\dimen156
-\MPnumerator=\count156
-\everyMPtoPDFconversion=\toks26
+\MPnumerator=\count157
+\everyMPtoPDFconversion=\toks27
 )
-\AtBeginShipoutBox=\box29
+\AtBeginShipoutBox=\box31
 Package hyperref Info: Link coloring OFF on input line 34.
  (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
@@ -860,7 +890,7 @@ Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 (/usr/share/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2009/12/18 v1.3 Cleanup title references (HO)
 )
-\c@section@level=\count157
+\c@section@level=\count158
 )
 Redoing nameref's sectioning
 Redoing nameref's label
@@ -872,39 +902,48 @@ LaTeX Info: Redefining \nameref on input line 34.
 \@outlinefile=\write5
 \openout5 = `contos_discordianos.out'.
 
-\openout2 = `capa.aux'.
 
+<capa.pdf, id=101, page=1, 422.53859pt x 597.432pt>
+File: capa.pdf Graphic file (type pdf)
+ <use capa.pdf, page 1>
+File: capa.pdf Graphic file (type pdf)
 
-No file capa.tex.
+<use capa.pdf, page 1>
+File: capa.pdf Graphic file (type pdf)
+ <use capa.pdf, page 1>
+File: capa.pdf Graphic file (type pdf)
+ <use capa.pdf, page 1>
+File: capa.pdf Graphic file (type pdf)
+
+<use capa.pdf, page 1> [1
+
+ <./capa.pdf>]
 \openout2 = `epigrafe.aux'.
 
-(./epigrafe.tex
+ (./epigrafe.tex [2
+
+
+]
 LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
-(Font)              scaled to size 14.4pt on input line 6.
+(Font)              scaled to size 14.4pt on input line 7.
 LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
-(Font)              scaled to size 8.0pt on input line 11.
+(Font)              scaled to size 8.0pt on input line 12.
 LaTeX Font Info:    Font shape `T1/fxlj/m/it' will be
-(Font)              scaled to size 8.0pt on input line 11.
- [1
-
-
-
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
+(Font)              scaled to size 8.0pt on input line 12.
+ [3{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [4
 
 ])
 \openout2 = `titlepage.aux'.
 
-
-(./titlepage.tex
+ (./titlepage.tex
 LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
 (Font)              scaled to size 9.0pt on input line 7.
 LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
 (Font)              scaled to size 17.28pt on input line 16.
- <eris_hand.png, id=112, 501.875pt x 271.0125pt>
-File: eris_hand.png Graphic file (type png)
 
-<use eris_hand.png> [3
+<eris_hand.png, id=128, 501.875pt x 271.0125pt>
+File: eris_hand.png Graphic file (type png)
+ <use eris_hand.png> [5
 
 
  <./eris_hand.png>])
@@ -912,8 +951,7 @@ File: eris_hand.png Graphic file (type png)
 
  (./copyright.tex
 LaTeX Font Info:    Try loading font information for T1+cmtt on input line 10.
-
-(/usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
+ (/usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
@@ -942,7 +980,7 @@ Package epstopdf Info: Source file: <cc.eps>
 .eps>
 (epstopdf)             \includegraphics on input line 12.
 Package epstopdf Info: Output file is already uptodate.
-<cc-eps-converted-to.pdf, id=121, 305.14pt x 73.27374pt>
+<cc-eps-converted-to.pdf, id=137, 305.14pt x 73.27374pt>
 File: cc-eps-converted-to.pdf Graphic file (type pdf)
 
 <use cc-eps-converted-to.pdf>
@@ -951,8 +989,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--20
  []
 
 LaTeX Font Info:    Font shape `T1/fxlj/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 25.
-[4
+(Font)              scaled to size 8.0pt on input line 27.
+[6
 
 
  <./cc-eps-converted-to.pdf>])
@@ -992,13 +1030,13 @@ Overfull \hbox (0.63155pt too wide) in paragraph at lines 43--44
 LaTeX Font Info:    Font shape `T1/fxlj/m/sc' will be
 (Font)              scaled to size 12.0pt on input line 47.
 )
-Overfull \hbox (5.3837pt too wide) in paragraph at lines 54--48
+Overfull \hbox (5.3837pt too wide) in paragraph at lines 54--50
 \T1/fxlj/m/sc/12 alhazred\T1/fxlj/m/n/12 , Ab-dul. \T1/fxlj/m/it/12 Ne-cro-no-m
 i-con\T1/fxlj/m/n/12 . Tra-du-��o para o la-tim: Ola-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 54--48
+Underfull \hbox (badness 10000) in paragraph at lines 54--50
 
  []
 
@@ -1026,16 +1064,16 @@ LaTeX Font Info:    Font shape `T1/fxlj/b/sc' will be
 
 ]) [8]
 LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
-(Font)              scaled to size 24.88pt on input line 54.
+(Font)              scaled to size 24.88pt on input line 56.
 LaTeX Font Info:    Font shape `T1/fxlj/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/fxlj/b/n' tried instead on input line 54.
+(Font)              Font shape `T1/fxlj/b/n' tried instead on input line 56.
 LaTeX Font Info:    Font shape `T1/fxlj/b/n' will be
-(Font)              scaled to size 24.88pt on input line 54.
+(Font)              scaled to size 24.88pt on input line 56.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54 	\part{Felipe Schneider}
+l.56 	\part{Felipe Schneider}
                               [1
 
 
@@ -1043,7 +1081,7 @@ l.54 	\part{Felipe Schneider}
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.54 	\part{Felipe Schneider}
+l.56 	\part{Felipe Schneider}
                               [2]
 \openout2 = `schneider/macacos.aux'.
 
@@ -1082,7 +1120,12 @@ l.18
       [4]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [5]
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.25 -
+      -- O sol parado está, nem eu posso de lá o tirar. [5]
 Overfull \hbox (2.99243pt too wide) in paragraph at lines 43--44
 []\T1/fxlj/m/n/12 --- Mas eu n�o es-tou em ne-nhum tra-ta-mento desse tipo...
  []
@@ -1090,8 +1133,13 @@ Overfull \hbox (2.99243pt too wide) in paragraph at lines 43--44
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [6])
-[7]
+pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.55 A
+      cordo. Olho o relógio. São 8:23 da manhã. Só mais cinco minutos. A...
+[6]) [7]
 \openout2 = `schneider/ode.aux'.
 
  (./schneider/ode.tex [8
@@ -1768,30 +1816,30 @@ Overfull \vbox (40.89491pt too high) has occurred while \output is active []
 \tf@toc=\write6
 \openout6 = `contos_discordianos.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 89.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 89.
- (./contos_discordianos.aux (./capa.aux)
-(./epigrafe.aux) (./titlepage.aux) (./copyright.aux) (./introducao.aux)
-(./schneider/macacos.aux) (./schneider/ode.aux) (./carol/diabo.aux)
-(./revberaldo/amor.aux) (./revberaldo/o_hippie.aux) (./revberaldo/brasilia.aux)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
+ (./contos_discordianos.aux (./epigrafe.aux)
+(./titlepage.aux) (./copyright.aux) (./introducao.aux) (./schneider/macacos.aux
+) (./schneider/ode.aux) (./carol/diabo.aux) (./revberaldo/amor.aux)
+(./revberaldo/o_hippie.aux) (./revberaldo/brasilia.aux)
 (./revberaldo/propp_conto.aux) (./revberaldo/deputado_invisivel.aux)
 (./dub/deus_sistema_digestivo.aux) (./dub/cao_gato.aux) (./dub/martelo.aux)
 (./dub/vai_pro_inferno.aux) (./dub/na_pascoa.aux) (./peterson/realidade.aux)
 (./peterson/sem_data.aux) (./peterson/profissionalismo.aux)
 (./peterson/raul_e_sua_miservel_torta.aux) (./peterson/quase_natal.aux)
 (./peterson/devil.aux) (./big_five.aux) (./colofon.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 89.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
 Package rerunfilecheck Info: File `contos_discordianos.out' has not changed.
 (rerunfilecheck)             Checksum: 8284774A0BB4E65465C303C88FE3D830;1476.
  ) 
 Here is how much of TeX's memory you used:
- 16766 strings out of 493738
- 217093 string characters out of 3148796
- 391230 words of memory out of 3000000
- 19516 multiletter control sequences out of 15000+200000
+ 17768 strings out of 493738
+ 231136 string characters out of 3148796
+ 413818 words of memory out of 3000000
+ 20503 multiletter control sequences out of 15000+200000
  138304 words of font info for 80 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 46i,11n,25p,1441b,441s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,18n,46p,1441b,463s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-dist/fonts/enc/dvips/libertine/xl-20.enc}{/usr/share/texmf-
 dist/fonts/enc/dvips/libertine/xl-8x.enc}{/usr/share/texmf-dist/fonts/enc/dvips
 /base/8r.enc} </home/revberaldo/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/
@@ -1799,10 +1847,10 @@ ectt0800.600pk></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><
 /usr/share/texmf-dist/fonts/type1/public/libertine/fxlb.pfb></usr/share/texmf-d
 ist/fonts/type1/public/libertine/fxlr.pfb></usr/share/texmf-dist/fonts/type1/pu
 blic/libertine/fxlri.pfb>
-Output written on contos_discordianos.pdf (141 pages, 524981 bytes).
+Output written on contos_discordianos.pdf (143 pages, 2008845 bytes).
 PDF statistics:
- 839 PDF objects out of 1000 (max. 8388607)
- 655 compressed objects within 7 object streams
+ 856 PDF objects out of 1000 (max. 8388607)
+ 665 compressed objects within 7 object streams
  174 named destinations out of 1000 (max. 500000)
- 203 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 213 words of extra memory for PDF output out of 10000 (max. 10000000)
 

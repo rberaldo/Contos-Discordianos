@@ -4,7 +4,7 @@
 \usepackage[english,brazilian]{babel}
 \usepackage[osf]{libertine}
 \usepackage{libertinecomp}
-\usepackage{leading,graphicx,epstopdf,hyperref,makeidx}
+\usepackage{leading,graphicx,epstopdf,hyperref,makeidx,pdfpages}
 \makeindex
 
 % Evitando órfãos e viúvas
@@ -38,8 +38,10 @@
 \parskip 3pt
 \frenchspacing
 
+% Inclusão da capa com o pdfpages:
+\includepdfmerge[fitpaper=true]{capa.pdf}
+
 % Começa a parte textual
-\include{capa}
 \include{epigrafe}
 \include{titlepage}
 \include{copyright}
