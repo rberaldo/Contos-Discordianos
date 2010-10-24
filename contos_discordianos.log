@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/Arch Linux) (format=pdflatex 2010.10.16)  17 OCT 2010 20:12
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/Arch Linux) (format=pdflatex 2010.10.16)  24 OCT 2010 13:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -845,26 +845,26 @@ LaTeX Warning: Unused global option(s):
 (./colofon.aux))
 \openout1 = `contos_discordianos.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 34.
-LaTeX Font Info:    ... okay on input line 34.
-LaTeX Font Info:    Try loading font information for T1+fxlj on input line 34.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 37.
+LaTeX Font Info:    ... okay on input line 37.
+LaTeX Font Info:    Try loading font information for T1+fxlj on input line 37.
  (/usr/share/texmf-dist/tex/latex/libertine/t1fxlj.fd
 File: t1fxlj.fd 2010/08/30 scaled font definitions for libertine T1/fxlj (Nm).
 )
 LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
-(Font)              scaled to size 12.0pt on input line 34.
+(Font)              scaled to size 12.0pt on input line 37.
 
 (/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -880,7 +880,7 @@ LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
 \everyMPtoPDFconversion=\toks27
 )
 \AtBeginShipoutBox=\box31
-Package hyperref Info: Link coloring OFF on input line 34.
+Package hyperref Info: Link coloring OFF on input line 37.
  (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
@@ -894,10 +894,10 @@ Package: gettitlestring 2009/12/18 v1.3 Cleanup title references (HO)
 )
 Redoing nameref's sectioning
 Redoing nameref's label
-LaTeX Info: Redefining \nameref on input line 34.
-LaTeX Info: Redefining \ref on input line 34.
-LaTeX Info: Redefining \pageref on input line 34.
-LaTeX Info: Redefining \nameref on input line 34.
+LaTeX Info: Redefining \nameref on input line 37.
+LaTeX Info: Redefining \ref on input line 37.
+LaTeX Info: Redefining \pageref on input line 37.
+LaTeX Info: Redefining \nameref on input line 37.
 (./contos_discordianos.out) (./contos_discordianos.out)
 \@outlinefile=\write5
 \openout5 = `contos_discordianos.out'.
@@ -989,7 +989,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--20
  []
 
 LaTeX Font Info:    Font shape `T1/fxlj/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 27.
+(Font)              scaled to size 8.0pt on input line 28.
 [6
 
 
@@ -999,6 +999,14 @@ LaTeX Font Info:    Font shape `T1/fxlj/m/sc' will be
  (./introducao.tex
 LaTeX Font Info:    Font shape `T1/fxlj/m/sc' will be
 (Font)              scaled to size 17.28pt on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 4.
+LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
+(Font)              scaled to size 10.0pt on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 4.
+LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
+(Font)              scaled to size 7.0pt on input line 4.
 LaTeX Font Info:    Font shape `T1/fxlj/bx/n' in size <17.28> not available
 (Font)              Font shape `T1/fxlj/b/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `T1/fxlj/b/n' will be
@@ -1006,9 +1014,9 @@ LaTeX Font Info:    Font shape `T1/fxlj/b/n' will be
 LaTeX Font Info:    Font shape `T1/fxlj/m/it' will be
 (Font)              scaled to size 12.0pt on input line 11.
 
-Overfull \hbox (1.85568pt too wide) in paragraph at lines 11--12
-\T1/fxlj/m/n/12 to-ló-gica no que eles cha-ma-vam de Ope-ra-ção: Mind-fuck atra
--
+Overfull \hbox (2.87248pt too wide) in paragraph at lines 11--12
+[]\T1/fxlj/m/n/12 Os cri-a-do-res do dis-cor-di-a-nismo fo-ram Gre-gory Hill, t
+am-
  []
 
 [1
@@ -1016,45 +1024,42 @@ Overfull \hbox (1.85568pt too wide) in paragraph at lines 11--12
 
 
 
-] [2] [3]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+] [2]
+LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
+(Font)              scaled to size 10.95pt on input line 29.
+ [3]
+Overfull \hbox (3.35501pt too wide) in paragraph at lines 39--40
+\T1/fxlj/m/n/12 rava uma Ca-bala Dis-cor-di-ana. A Ca-bala 1001 Ga-tos de Schrö
+-
+ []
 
- [4]
+
+Overfull \hbox (2.58755pt too wide) in paragraph at lines 39--40
+\T1/fxlj/m/n/12 din-ger atraiu re-li-gi-o-sos rai-vo-sos, ado-les-cen-tes na pu
+-ber-dade,
+ []
+
+[4]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [5]
-Overfull \hbox (0.63155pt too wide) in paragraph at lines 43--44
+Overfull \hbox (0.63155pt too wide) in paragraph at lines 47--48
 \T1/fxlj/m/n/12 que-realmente-pensam des-pre-ve-ni-dos e os con-ver-tendo ins-
  []
 
 LaTeX Font Info:    Font shape `T1/fxlj/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 47.
-)
-Overfull \hbox (5.3837pt too wide) in paragraph at lines 54--50
-\T1/fxlj/m/sc/12 alhazred\T1/fxlj/m/n/12 , Ab-dul. \T1/fxlj/m/it/12 Ne-cro-no-m
-i-con\T1/fxlj/m/n/12 . Tra-du-ção para o la-tim: Ola-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 54--50
-
- []
-
-[6] (./contos_discordianos.toc
+(Font)              scaled to size 12.0pt on input line 51.
+) [6] (./contos_discordianos.toc
 LaTeX Font Info:    Font shape `T1/fxlj/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/fxlj/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `T1/fxlj/b/n' will be
 (Font)              scaled to size 14.4pt on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 2.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 2.
 LaTeX Font Info:    Font shape `T1/fxlj/bx/n' in size <12> not available
 (Font)              Font shape `T1/fxlj/b/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `T1/fxlj/b/n' will be
 (Font)              scaled to size 12.0pt on input line 3.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 3.
 LaTeX Font Info:    Font shape `T1/fxlj/bx/sc' in size <12> not available
 (Font)              Font shape `T1/fxlj/b/sc' tried instead on input line 10.
 LaTeX Font Info:    Font shape `T1/fxlj/b/sc' will be
@@ -1064,16 +1069,16 @@ LaTeX Font Info:    Font shape `T1/fxlj/b/sc' will be
 
 ]) [8]
 LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
-(Font)              scaled to size 24.88pt on input line 56.
+(Font)              scaled to size 24.88pt on input line 59.
 LaTeX Font Info:    Font shape `T1/fxlj/bx/n' in size <24.88> not available
-(Font)              Font shape `T1/fxlj/b/n' tried instead on input line 56.
+(Font)              Font shape `T1/fxlj/b/n' tried instead on input line 59.
 LaTeX Font Info:    Font shape `T1/fxlj/b/n' will be
-(Font)              scaled to size 24.88pt on input line 56.
+(Font)              scaled to size 24.88pt on input line 59.
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.56 	\part{Felipe Schneider}
+l.59 	\part{Felipe Schneider}
                               [1
 
 
@@ -1081,7 +1086,7 @@ l.56 	\part{Felipe Schneider}
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.56 	\part{Felipe Schneider}
+l.59 	\part{Felipe Schneider}
                               [2]
 \openout2 = `schneider/macacos.aux'.
 
@@ -1816,8 +1821,8 @@ Overfull \vbox (40.89491pt too high) has occurred while \output is active []
 \tf@toc=\write6
 \openout6 = `contos_discordianos.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 91.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 94.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 94.
  (./contos_discordianos.aux (./epigrafe.aux)
 (./titlepage.aux) (./copyright.aux) (./introducao.aux) (./schneider/macacos.aux
 ) (./schneider/ode.aux) (./carol/diabo.aux) (./revberaldo/amor.aux)
@@ -1828,29 +1833,30 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 91.
 (./peterson/sem_data.aux) (./peterson/profissionalismo.aux)
 (./peterson/raul_e_sua_miservel_torta.aux) (./peterson/quase_natal.aux)
 (./peterson/devil.aux) (./big_five.aux) (./colofon.aux))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 91.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 94.
 Package rerunfilecheck Info: File `contos_discordianos.out' has not changed.
 (rerunfilecheck)             Checksum: 8284774A0BB4E65465C303C88FE3D830;1476.
  ) 
 Here is how much of TeX's memory you used:
- 17768 strings out of 493738
- 231136 string characters out of 3148796
- 413818 words of memory out of 3000000
- 20503 multiletter control sequences out of 15000+200000
- 138304 words of font info for 80 fonts, out of 3000000 for 9000
+ 17777 strings out of 493738
+ 231234 string characters out of 3148796
+ 413827 words of memory out of 3000000
+ 20506 multiletter control sequences out of 15000+200000
+ 166008 words of font info for 89 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  46i,18n,46p,1441b,463s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-dist/fonts/enc/dvips/libertine/xl-20.enc}{/usr/share/texmf-
 dist/fonts/enc/dvips/libertine/xl-8x.enc}{/usr/share/texmf-dist/fonts/enc/dvips
 /base/8r.enc} </home/revberaldo/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/
 ectt0800.600pk></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><
-/usr/share/texmf-dist/fonts/type1/public/libertine/fxlb.pfb></usr/share/texmf-d
-ist/fonts/type1/public/libertine/fxlr.pfb></usr/share/texmf-dist/fonts/type1/pu
-blic/libertine/fxlri.pfb>
-Output written on contos_discordianos.pdf (143 pages, 2008845 bytes).
+/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/ty
+pe1/public/libertine/fxlb.pfb></usr/share/texmf-dist/fonts/type1/public/liberti
+ne/fxlr.pfb></usr/share/texmf-dist/fonts/type1/public/libertine/fxlri.pfb>
+Output written on contos_discordianos.pdf (143 pages, 2022514 bytes).
 PDF statistics:
- 856 PDF objects out of 1000 (max. 8388607)
- 665 compressed objects within 7 object streams
+ 864 PDF objects out of 1000 (max. 8388607)
+ 671 compressed objects within 7 object streams
  174 named destinations out of 1000 (max. 500000)
  213 words of extra memory for PDF output out of 10000 (max. 10000000)
 
