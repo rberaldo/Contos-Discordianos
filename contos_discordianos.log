@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/Arch Linux) (format=pdflatex 2010.10.16)  24 OCT 2010 14:33
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/Arch Linux) (format=pdflatex 2010.11.7)  14 NOV 2010 13:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -687,7 +687,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 )))
 (/usr/share/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2010/09/17 v6.81q Hypertext links for LaTeX
+Package: hyperref 2010/10/30 v6.81t Hypertext links for LaTeX
 
 (/usr/share/texmf-dist/tex/generic/oberdiek/pdfescape.sty
 Package: pdfescape 2010/03/01 v1.9 Provides hex, PDF name and string conversion
@@ -711,7 +711,7 @@ Package: letltxmacro 2008/06/24 v1.3 Let assignment for LaTeX macros (HO)
 \Hy@pagecounter=\count143
 
 (/usr/share/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2010/09/17 v6.81q Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2010/10/30 v6.81t Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
@@ -723,21 +723,21 @@ Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
 (/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `final' set `true' on input line 3798.
-Package hyperref Info: Hyper figures OFF on input line 3902.
-Package hyperref Info: Link nesting OFF on input line 3907.
-Package hyperref Info: Hyper index ON on input line 3910.
-Package hyperref Info: Plain pages OFF on input line 3917.
-Package hyperref Info: Backreferencing OFF on input line 3922.
+Package hyperref Info: Option `final' set `true' on input line 3872.
+Package hyperref Info: Hyper figures OFF on input line 3976.
+Package hyperref Info: Link nesting OFF on input line 3981.
+Package hyperref Info: Hyper index ON on input line 3984.
+Package hyperref Info: Plain pages OFF on input line 3991.
+Package hyperref Info: Backreferencing OFF on input line 3996.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4132.
+Package hyperref Info: Bookmarks ON on input line 4211.
 \c@Hy@tempcnt=\count145
 
 (/usr/share/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip10
 Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4487.
+LaTeX Info: Redefining \url on input line 4566.
 
 (/usr/share/texmf-dist/tex/generic/oberdiek/bitset.sty
 Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
@@ -748,15 +748,15 @@ Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
 \Fld@menulength=\count146
 \Field@Width=\dimen153
 \Fld@charsize=\dimen154
-Package hyperref Info: Hyper figures OFF on input line 5526.
-Package hyperref Info: Link nesting OFF on input line 5531.
-Package hyperref Info: Hyper index ON on input line 5534.
-Package hyperref Info: backreferencing OFF on input line 5541.
-Package hyperref Info: Link coloring OFF on input line 5546.
-Package hyperref Info: Link coloring with OCG OFF on input line 5551.
-Package hyperref Info: PDF/A mode OFF on input line 5556.
-LaTeX Info: Redefining \ref on input line 5596.
-LaTeX Info: Redefining \pageref on input line 5600.
+Package hyperref Info: Hyper figures OFF on input line 5626.
+Package hyperref Info: Link nesting OFF on input line 5631.
+Package hyperref Info: Hyper index ON on input line 5634.
+Package hyperref Info: backreferencing OFF on input line 5641.
+Package hyperref Info: Link coloring OFF on input line 5646.
+Package hyperref Info: Link coloring with OCG OFF on input line 5651.
+Package hyperref Info: PDF/A mode OFF on input line 5656.
+LaTeX Info: Redefining \ref on input line 5696.
+LaTeX Info: Redefining \pageref on input line 5700.
 
 (/usr/share/texmf-dist/tex/generic/oberdiek/atbegshi.sty
 Package: atbegshi 2010/03/25 v1.12 At begin shipout hook (HO)
@@ -773,7 +773,7 @@ ass
 Package hyperref Message: Driver (autodetected): hpdftex.
 
 (/usr/share/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2010/09/17 v6.81q Hyperref driver for pdfTeX
+File: hpdftex.def 2010/10/30 v6.81t Hyperref driver for pdfTeX
 
 (/usr/share/texmf-dist/tex/latex/oberdiek/atveryend.sty
 Package: atveryend 2010/03/24 v1.5 Hooks at very end of document (HO)
@@ -797,7 +797,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 Package: pdfpages 2010/08/08 v0.4k Insert pages of external PDF documents (AM)
 
 (/usr/share/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-Package: eso-pic 2010/06/08 v2.0b eso-pic (RN)
+Package: eso-pic 2010/10/06 v2.0c eso-pic (RN)
 
 (/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
@@ -988,12 +988,26 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--20
 []\T1/fxlj/m/n/8 Edição por Ra-fael Be-raldo []$\T1/cmtt/m/n/8 <[]revberaldo @
  []
 
+Package epstopdf Info: Source file: <logo_imprensa.eps>
+(epstopdf)                    date: 2010-11-14 13:25:05
+(epstopdf)                    size: 5748768 bytes
+(epstopdf)             Output file: <logo_imprensa-eps-converted-to.pdf>
+(epstopdf)                    date: 2010-11-14 13:25:14
+(epstopdf)                    size: 17517 bytes
+(epstopdf)             Command: <repstopdf --outfile=logo_imprensa-eps-converte
+d-to.pdf logo_imprensa.eps>
+(epstopdf)             \includegraphics on input line 28.
+Package epstopdf Info: Output file is already uptodate.
+<logo_imprensa-eps-converted-to.pdf, id=140, 240.9pt x 227.85126pt>
+File: logo_imprensa-eps-converted-to.pdf Graphic file (type pdf)
+
+<use logo_imprensa-eps-converted-to.pdf>
 LaTeX Font Info:    Font shape `T1/fxlj/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 28.
-[6
+(Font)              scaled to size 8.0pt on input line 30.
+ [6
 
 
- <./cc-eps-converted-to.pdf>])
+ <./cc-eps-converted-to.pdf> <./logo_imprensa-eps-converted-to.pdf>])
 \openout2 = `introducao.aux'.
 
  (./introducao.tex
@@ -1838,10 +1852,10 @@ Package rerunfilecheck Info: File `contos_discordianos.out' has not changed.
 (rerunfilecheck)             Checksum: 8284774A0BB4E65465C303C88FE3D830;1476.
  ) 
 Here is how much of TeX's memory you used:
- 17777 strings out of 493738
- 231234 string characters out of 3148796
- 413827 words of memory out of 3000000
- 20506 multiletter control sequences out of 15000+200000
+ 17791 strings out of 493738
+ 231543 string characters out of 3148797
+ 414507 words of memory out of 3000000
+ 20519 multiletter control sequences out of 15000+200000
  166008 words of font info for 89 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
  46i,18n,46p,1441b,463s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1853,10 +1867,10 @@ ectt0800.600pk></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><
 f-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/ty
 pe1/public/libertine/fxlb.pfb></usr/share/texmf-dist/fonts/type1/public/liberti
 ne/fxlr.pfb></usr/share/texmf-dist/fonts/type1/public/libertine/fxlri.pfb>
-Output written on contos_discordianos.pdf (143 pages, 2021094 bytes).
+Output written on contos_discordianos.pdf (143 pages, 1970261 bytes).
 PDF statistics:
- 864 PDF objects out of 1000 (max. 8388607)
- 671 compressed objects within 7 object streams
+ 868 PDF objects out of 1000 (max. 8388607)
+ 673 compressed objects within 7 object streams
  174 named destinations out of 1000 (max. 500000)
- 213 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 218 words of extra memory for PDF output out of 10000 (max. 10000000)
 
