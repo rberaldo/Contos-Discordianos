@@ -4,7 +4,15 @@
 \usepackage[english,brazilian]{babel}
 \usepackage[osf]{libertine}
 \usepackage{libertinecomp}
-\usepackage{leading,graphicx,epstopdf,hyperref,makeidx,pdfpages,microtype}
+\usepackage{hyperref}
+%Configurando as propriedades do PDF
+\hypersetup{
+pdfauthor={Carol, Duubhglass, Schneider, Peterson, Beraldo},
+pdftitle={Contos Discordianos},
+pdfkeywords={discordianismo, contos, literatura}
+}
+
+\usepackage{leading,graphicx,epstopdf,makeidx,pdfpages,microtype}
 \makeindex
 
 % Evitando órfãos e viúvas
@@ -41,7 +49,7 @@
 \frenchspacing
 
 % Inclusão da capa com o pdfpages:
-%\includepdfmerge[fitpaper=true]{capa.pdf}
+\includepdfmerge[fitpaper=true]{capa.pdf}
 
 % Começa a parte textual
 \include{epigrafe}
