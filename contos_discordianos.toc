@@ -1,25 +1,25 @@
 \select@language {brazilian}
 \contentsline {part}{\partnumberline {I}Felipe Schneider}{1}{part.1}
 \contentsline {chapter}{\chapternumberline {1}Sobre Macacos e Bananas}{3}{chapter.1}
-\contentsline {chapter}{\chapternumberline {2}Ode ao `quase'}{9}{chapter.2}
-\contentsline {part}{\partnumberline {II}Carol Peters}{11}{part.2}
-\contentsline {chapter}{\chapternumberline {3}Ao Teu com o Diabo}{13}{chapter.3}
-\contentsline {part}{\partnumberline {III}rev.~Rafael Beraldo}{19}{part.3}
-\contentsline {chapter}{\chapternumberline {4}Amor, Sublime Amor\dots }{21}{chapter.4}
-\contentsline {chapter}{\chapternumberline {5}Retirado de um velho peda\IeC {\c c}o de jornal}{25}{chapter.5}
-\contentsline {chapter}{\chapternumberline {6}Nos Bastidores da \textsc {tv} e da Religi\IeC {\~a}o}{29}{chapter.6}
-\contentsline {chapter}{\chapternumberline {7}Um conto em tr\IeC {\^e}s act\IeC {\'o}ides}{33}{chapter.7}
-\contentsline {chapter}{\chapternumberline {8}Rom\IeC {\~a}o Brasil, o Deputado Invis\IeC {\'\i }vel}{35}{chapter.8}
-\contentsline {part}{\partnumberline {IV}Duubhglas Juarezzz}{41}{part.4}
-\contentsline {chapter}{\chapternumberline {9}Deus cria o sistema digestivo}{43}{chapter.9}
-\contentsline {chapter}{\chapternumberline {10}O cachorro de Pavlov e o gato de Schr\IeC {\"o}dinger}{45}{chapter.10}
-\contentsline {chapter}{\chapternumberline {11}Martelo}{59}{chapter.11}
-\contentsline {chapter}{\chapternumberline {12}Go to hell\dots }{63}{chapter.12}
-\contentsline {chapter}{\chapternumberline {13}Na P\IeC {\'a}scoa}{67}{chapter.13}
-\contentsline {part}{\partnumberline {V}rev.~Peterson Espa\IeC {\c c}oporto}{73}{part.5}
-\contentsline {chapter}{\chapternumberline {14}Realidade.\,.}{75}{chapter.14}
-\contentsline {chapter}{\chapternumberline {15}Sem Data}{81}{chapter.15}
-\contentsline {chapter}{\chapternumberline {16}Profissionalismo}{85}{chapter.16}
-\contentsline {chapter}{\chapternumberline {17}Raul e sua Miser\IeC {\'a}vel Torta}{97}{chapter.17}
-\contentsline {chapter}{\chapternumberline {18}Quase Natal}{107}{chapter.18}
-\contentsline {chapter}{\chapternumberline {19}Devil}{115}{chapter.19}
+\contentsline {chapter}{\chapternumberline {2}Ode ao `quase'}{7}{chapter.2}
+\contentsline {part}{\partnumberline {II}Carol Peters}{9}{part.2}
+\contentsline {chapter}{\chapternumberline {3}Ao Teu com o Diabo}{11}{chapter.3}
+\contentsline {part}{\partnumberline {III}rev.~Rafael Beraldo}{17}{part.3}
+\contentsline {chapter}{\chapternumberline {4}Amor, Sublime Amor\dots }{19}{chapter.4}
+\contentsline {chapter}{\chapternumberline {5}Retirado de um velho peda\IeC {\c c}o de jornal}{23}{chapter.5}
+\contentsline {chapter}{\chapternumberline {6}Nos Bastidores da \textsc {tv} e da Religi\IeC {\~a}o}{27}{chapter.6}
+\contentsline {chapter}{\chapternumberline {7}Um conto em tr\IeC {\^e}s act\IeC {\'o}ides}{31}{chapter.7}
+\contentsline {chapter}{\chapternumberline {8}Rom\IeC {\~a}o Brasil, o Deputado Invis\IeC {\'\i }vel}{33}{chapter.8}
+\contentsline {part}{\partnumberline {IV}Duubhglas Juarezzz}{39}{part.4}
+\contentsline {chapter}{\chapternumberline {9}Deus cria o sistema digestivo}{41}{chapter.9}
+\contentsline {chapter}{\chapternumberline {10}O cachorro de Pavlov e o gato de Schr\IeC {\"o}dinger}{43}{chapter.10}
+\contentsline {chapter}{\chapternumberline {11}Martelo}{55}{chapter.11}
+\contentsline {chapter}{\chapternumberline {12}Go to hell\dots }{59}{chapter.12}
+\contentsline {chapter}{\chapternumberline {13}Na P\IeC {\'a}scoa}{63}{chapter.13}
+\contentsline {part}{\partnumberline {V}rev.~Peterson Espa\IeC {\c c}oporto}{69}{part.5}
+\contentsline {chapter}{\chapternumberline {14}Realidade.\,.}{71}{chapter.14}
+\contentsline {chapter}{\chapternumberline {15}Sem Data}{77}{chapter.15}
+\contentsline {chapter}{\chapternumberline {16}Profissionalismo}{81}{chapter.16}
+\contentsline {chapter}{\chapternumberline {17}Raul e sua Miser\IeC {\'a}vel Torta}{93}{chapter.17}
+\contentsline {chapter}{\chapternumberline {18}Quase Natal}{103}{chapter.18}
+\contentsline {chapter}{\chapternumberline {19}Devil}{111}{chapter.19}

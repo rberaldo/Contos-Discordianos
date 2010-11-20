@@ -1,15 +1,15 @@
-\documentclass[12pt,openright,final,twoside,extrafonts,ebook]{memoir}
+\documentclass[12pt,openright,draft,twoside,extrafonts,ebook]{memoir}
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
 \usepackage[english,brazilian]{babel}
 \usepackage[osf]{libertine}
 \usepackage{libertinecomp}
-\usepackage{leading,graphicx,epstopdf,hyperref,makeidx,pdfpages}
+\usepackage{leading,graphicx,epstopdf,hyperref,makeidx,pdfpages,microtype}
 \makeindex
 
 % Evitando órfãos e viúvas
-\widowpenalty=10000
-\clubpenalty=10000
+\widowpenalty=900
+\clubpenalty=800
 
 % Escolhendo um estilo de capitulos
 \chapterstyle{bringhurst}
@@ -25,7 +25,6 @@
 
 % Tirando o número da página do \part
 \aliaspagestyle{part}{empty}
-\aliaspagestyle{chapter}{empty}
 
 % Tirando o escrito “Parte x” do \part
 \renewcommand{\printpartname}{}
@@ -38,7 +37,7 @@
 
 % Algumas definições puramente tipográficas
 \pagestyle{bringhurst}
-\parskip 3pt
+\setlength{\parskip}{2pt plus2mm minus1mm}
 \frenchspacing
 
 % Inclusão da capa com o pdfpages:
