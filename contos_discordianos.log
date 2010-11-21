@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/Arch Linux) (format=pdflatex 2010.11.7)  20 NOV 2010 18:47
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/Arch Linux) (format=pdflatex 2010.11.7)  21 NOV 2010 00:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -45,8 +45,8 @@ Package ifluatex Info: LuaTeX not detected.
 Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
 \et@xins=\count81
 )
-(/usr/share/texmf-dist/tex/latex/memoir/mem12.clo
-File: mem12.clo 2008/01/30 v0.4 memoir class 12pt size option
+(/usr/share/texmf-dist/tex/latex/memoir/mem11.clo
+File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
 )
 \binding=\skip48
 \spinemargin=\skip49
@@ -667,7 +667,7 @@ Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
 (/usr/share/texmf-dist/tex/latex/latexconfig/hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
-Package hyperref Info: Option `final' set `true' on input line 3872.
+Package hyperref Info: Option `draft' set `true' on input line 3872.
 Package hyperref Info: Hyper figures OFF on input line 3976.
 Package hyperref Info: Link nesting OFF on input line 3981.
 Package hyperref Info: Hyper index ON on input line 3984.
@@ -878,10 +878,13 @@ LaTeX Font Info:    Try loading font information for T1+fxlj on input line 44.
 File: t1fxlj.fd 2010/08/30 scaled font definitions for libertine T1/fxlj (Nm).
 )
 LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
-(Font)              scaled to size 12.0pt on input line 44.
+(Font)              scaled to size 10.95pt on input line 44.
 \AtBeginShipoutBox=\box30
-Package hyperref Info: Link coloring OFF on input line 44.
 
+
+Package hyperref Warning: Draft mode on.
+
+Package hyperref Info: Link coloring OFF on input line 44.
 (/usr/share/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 
@@ -899,11 +902,6 @@ LaTeX Info: Redefining \nameref on input line 44.
 LaTeX Info: Redefining \ref on input line 44.
 LaTeX Info: Redefining \pageref on input line 44.
 LaTeX Info: Redefining \nameref on input line 44.
-(./contos_discordianos.out) (./contos_discordianos.out)
-\@outlinefile=\write5
-\openout5 = `contos_discordianos.out'.
-
-
 (/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count155
@@ -918,30 +916,20 @@ LaTeX Info: Redefining \nameref on input line 44.
 \everyMPtoPDFconversion=\toks28
 )
 LaTeX Info: Redefining \microtypecontext on input line 44.
-Package microtype Info: Generating PDF output.
-Package microtype Info: Character protrusion enabled (level 2).
-Package microtype Info: Using default protrusion set `alltext'.
-Package microtype Info: Automatic font expansion enabled (level 2),
-(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
-Package microtype Info: Using default expansion set `basictext'.
-Package microtype Info: No tracking.
-Package microtype Info: No adjustment of interword spacing.
-Package microtype Info: No adjustment of character kerning.
- <capa.pdf, id=101, page=1, 422.53859pt x 597.432pt>
-File: capa.pdf Graphic file (type pdf)
- <use capa.pdf, page 1>
-File: capa.pdf Graphic file (type pdf)
 
-<use capa.pdf, page 1>
-File: capa.pdf Graphic file (type pdf)
- <use capa.pdf, page 1>
-File: capa.pdf Graphic file (type pdf)
- <use capa.pdf, page 1>
-File: capa.pdf Graphic file (type pdf)
 
-<use capa.pdf, page 1> [1
+Package microtype Warning: `draft' option active.
+(microtype)                Disabling all micro-typographic extensions.
+(microtype)                This might lead to different line and page breaks.
 
- <./capa.pdf>]
+<capa.pdf, id=2, page=1, 422.53859pt x 597.432pt>
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 52.
+
+(/usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+]
 \openout2 = `epigrafe.aux'.
 
  (./epigrafe.tex [2
@@ -949,53 +937,46 @@ File: capa.pdf Graphic file (type pdf)
 
 ]
 LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
-(Font)              scaled to size 14.4pt on input line 7.
+(Font)              scaled to size 12.0pt on input line 7.
 LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
-(Font)              scaled to size 8.0pt on input line 12.
+(Font)              scaled to size 7.0pt on input line 12.
 LaTeX Font Info:    Font shape `T1/fxlj/m/it' will be
-(Font)              scaled to size 8.0pt on input line 12.
- [3{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [4
+(Font)              scaled to size 7.0pt on input line 12.
+ [3] [4
 
 ])
 \openout2 = `titlepage.aux'.
 
  (./titlepage.tex
 LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
-(Font)              scaled to size 9.0pt on input line 7.
+(Font)              scaled to size 8.0pt on input line 7.
 LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
-(Font)              scaled to size 17.28pt on input line 16.
+(Font)              scaled to size 14.4pt on input line 16.
 
-<eris_hand.png, id=128, 501.875pt x 271.0125pt>
-File: eris_hand.png Graphic file (type png)
- <use eris_hand.png> [5
+<eris_hand.png, id=21, 501.875pt x 271.0125pt> [5
 
 
- <./eris_hand.png>])
+])
 \openout2 = `copyright.aux'.
 
  (./copyright.tex
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 10.
- (/usr/share/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
-)
-(/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
-File: mt-cmr.cfg 2009/11/09 v2.0 microtype config. file: Computer Modern Roman 
-(RS)
-)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 10.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 10.
+(Font)              <7> on input line 10.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 10.
 
-Underfull \hbox (badness 1558) in paragraph at lines 10--11
-[]\T1/fxlj/m/n/8 Alguns di-rei-tos re-ser-va-dos; esta pu-bli-ca-ção pode
+Underfull \hbox (badness 1803) in paragraph at lines 10--11
+[]\T1/fxlj/m/n/7 Alguns di-rei-tos re-ser-va-dos; esta pu-bli-ca-ção pode ser
  []
 
 
-Underfull \hbox (badness 1668) in paragraph at lines 10--11
-\T1/fxlj/m/n/8 cença []Cre-ative Com-mons 3.0[]. Veja suas li-ber-da-
+Underfull \hbox (badness 3199) in paragraph at lines 10--11
+\T1/fxlj/m/n/7 re-pro-du-zida e mo-di-fi-cada de acordo com a li-cença
+ []
+
+
+Underfull \hbox (badness 3460) in paragraph at lines 10--11
+[]\T1/fxlj/m/n/7 Cre-ative Com-mons 3.0[]. Veja suas li-ber-da-des e de-
  []
 
 Package epstopdf Info: Source file: <cc.eps>
@@ -1008,14 +989,7 @@ Package epstopdf Info: Source file: <cc.eps>
 .eps>
 (epstopdf)             \includegraphics on input line 12.
 Package epstopdf Info: Output file is already uptodate.
-<cc-eps-converted-to.pdf, id=137, 305.14pt x 73.27374pt>
-File: cc-eps-converted-to.pdf Graphic file (type pdf)
-
-<use cc-eps-converted-to.pdf>
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
-[]\T1/fxlj/m/n/8 Edição por Ra-fael Be-raldo []$\T1/cmtt/m/n/8 <[]revberaldo @
- []
-
+<cc-eps-converted-to.pdf, id=27, 305.14pt x 73.27374pt>
 Package epstopdf Info: Source file: <logo_imprensa.eps>
 (epstopdf)                    date: 2010-11-14 13:25:05
 (epstopdf)                    size: 5748768 bytes
@@ -1026,35 +1000,38 @@ Package epstopdf Info: Source file: <logo_imprensa.eps>
 d-to.pdf logo_imprensa.eps>
 (epstopdf)             \includegraphics on input line 28.
 Package epstopdf Info: Output file is already uptodate.
-<logo_imprensa-eps-converted-to.pdf, id=140, 240.9pt x 227.85126pt>
-File: logo_imprensa-eps-converted-to.pdf Graphic file (type pdf)
 
-<use logo_imprensa-eps-converted-to.pdf>
+<logo_imprensa-eps-converted-to.pdf, id=28, 240.9pt x 227.85126pt>
 LaTeX Font Info:    Font shape `T1/fxlj/m/sc' will be
-(Font)              scaled to size 8.0pt on input line 30.
+(Font)              scaled to size 7.0pt on input line 30.
  [6
 
 
- <./cc-eps-converted-to.pdf> <./logo_imprensa-eps-converted-to.pdf>])
+])
 \openout2 = `introducao.aux'.
 
- (./introducao.tex
+
+(./introducao.tex
 LaTeX Font Info:    Font shape `T1/fxlj/m/sc' will be
-(Font)              scaled to size 17.28pt on input line 2.
+(Font)              scaled to size 14.4pt on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 4.
-LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
-(Font)              scaled to size 10.0pt on input line 4.
+(Font)              <10.95> on input line 4.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 4.
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 4.
 LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
-(Font)              scaled to size 7.0pt on input line 4.
-LaTeX Font Info:    Font shape `T1/fxlj/bx/n' in size <17.28> not available
+(Font)              scaled to size 9.0pt on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 4.
+LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
+(Font)              scaled to size 6.0pt on input line 4.
+LaTeX Font Info:    Font shape `T1/fxlj/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/fxlj/b/n' tried instead on input line 7.
 LaTeX Font Info:    Font shape `T1/fxlj/b/n' will be
-(Font)              scaled to size 17.28pt on input line 7.
+(Font)              scaled to size 14.4pt on input line 7.
 LaTeX Font Info:    Font shape `T1/fxlj/m/it' will be
-(Font)              scaled to size 12.0pt on input line 12.
+(Font)              scaled to size 10.95pt on input line 10.
  [1
 
 
@@ -1062,142 +1039,138 @@ LaTeX Font Info:    Font shape `T1/fxlj/m/it' will be
 
 ] [2]
 LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
-(Font)              scaled to size 10.95pt on input line 31.
- [3] [4] [5]
+(Font)              scaled to size 10.0pt on input line 28.
+
+Overfull \hbox (1.50984pt too wide) in paragraph at lines 29--30
+\T1/fxlj/m/n/10 mismo, ou se-le-ci-o-nar si-nais caó-ti-cos e afir-mar que Deus
+|
+ []
+
+[3] [4] [5]
+Overfull \hbox (0.72238pt too wide) in paragraph at lines 44--45
+[]\T1/fxlj/m/n/10.95 Logo, a his-tó-ria do dis-cor-di-a-nismo no Bra-sil passa 
+por aqui.|
+ []
+
 LaTeX Font Info:    Font shape `T1/fxlj/m/sc' will be
-(Font)              scaled to size 12.0pt on input line 55.
-)
-[6] (./contos_discordianos.toc
-LaTeX Font Info:    Font shape `T1/fxlj/bx/n' in size <14.4> not available
+(Font)              scaled to size 10.95pt on input line 50.
+) [6] (./contos_discordianos.toc
+LaTeX Font Info:    Font shape `T1/fxlj/bx/n' in size <12> not available
 (Font)              Font shape `T1/fxlj/b/n' tried instead on input line 2.
 LaTeX Font Info:    Font shape `T1/fxlj/b/n' will be
-(Font)              scaled to size 14.4pt on input line 2.
+(Font)              scaled to size 12.0pt on input line 2.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 2.
-LaTeX Font Info:    Font shape `T1/fxlj/bx/n' in size <12> not available
+(Font)              <12> on input line 2.
+LaTeX Font Info:    Font shape `T1/fxlj/bx/n' in size <10.95> not available
 (Font)              Font shape `T1/fxlj/b/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `T1/fxlj/b/n' will be
-(Font)              scaled to size 12.0pt on input line 3.
-LaTeX Font Info:    Font shape `T1/fxlj/bx/sc' in size <12> not available
+(Font)              scaled to size 10.95pt on input line 3.
+LaTeX Font Info:    Font shape `T1/fxlj/bx/sc' in size <10.95> not available
 (Font)              Font shape `T1/fxlj/b/sc' tried instead on input line 10.
 LaTeX Font Info:    Font shape `T1/fxlj/b/sc' will be
-(Font)              scaled to size 12.0pt on input line 10.
+(Font)              scaled to size 10.95pt on input line 10.
  [7
 
 
 ]) [8]
+LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
+(Font)              scaled to size 20.74pt on input line 66.
+LaTeX Font Info:    Font shape `T1/fxlj/bx/n' in size <20.74> not available
+(Font)              Font shape `T1/fxlj/b/n' tried instead on input line 66.
+LaTeX Font Info:    Font shape `T1/fxlj/b/n' will be
+(Font)              scaled to size 20.74pt on input line 66.
 LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
 (Font)              scaled to size 24.88pt on input line 66.
 LaTeX Font Info:    Font shape `T1/fxlj/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/fxlj/b/n' tried instead on input line 66.
 LaTeX Font Info:    Font shape `T1/fxlj/b/n' will be
 (Font)              scaled to size 24.88pt on input line 66.
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.66 	\part{Felipe Schneider}
-                              [1
+ [1
 
 
-]pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
- been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.66 	\part{Felipe Schneider}
-                              [2]
+] [2]
 \openout2 = `schneider/macacos.aux'.
 
- (./schneider/macacos.texpdfTeX warning (ext4): destination with the same ident
-ifier (name{page.3}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.14 
-      [3
+ (./schneider/macacos.tex
+[3
 
 
-]pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has
- been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.20 
-      [4]pdfTeX warning (ext4): destination with the same identifier (name{page
-.5}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.30 
-      [5])pdfTeX warning (ext4): destination with the same identifier (name{pag
-e.6}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.67 		\include{schneider/macacos}
-                                   [6]
+] [4] [5] [6]) [7]
 \openout2 = `schneider/ode.aux'.
 
- (./schneider/ode.tex [7
+ (./schneider/ode.tex [8
 
 
 
-]) [8] [9
+] [9]) [10] [11
 
 
-]
-[10]
+] [12]
 \openout2 = `carol/diabo.aux'.
 
- (./carol/diabo.tex [11
+
+(./carol/diabo.tex [13
 
 
-] [12] [13] [14]) [15] [16
+] [14] [15] [16]) [17] [18
 
 
-] [17] [18]
+] [19] [20]
 \openout2 = `revberaldo/amor.aux'.
 
 
-(./revberaldo/amor.tex [19
+(./revberaldo/amor.tex [21
 
 
-] [20]
-Underfull \vbox (badness 1286) has occurred while \output is active []
+] [22]
+Overfull \hbox (2.29924pt too wide) in paragraph at lines 37--38
+[]\T1/fxlj/m/n/10.95 --- Schop, te digo mais: Ni-etzs-che con-cor-da-ria con-ti
+go quan-|
+ []
 
- [21])
-[22]
+[23]) [24]
 \openout2 = `revberaldo/o_hippie.aux'.
 
  (./revberaldo/o_hippie.tex
-Overfull \hbox (0.28407pt too wide) in paragraph at lines 3--4
-\T1/fxlj/m/sc/17.28 mais que au-to-a-juda, es-cri-tor pro-move
+Overfull \hbox (0.6511pt too wide) in paragraph at lines 11--12
+\T1/fxlj/m/n/10.95 prin-ci-pal-mente en-tre os jo-vens, exis-tia um con-flito m
+uito gran-|
  []
 
-[23
+
+Overfull \hbox (1.62564pt too wide) in paragraph at lines 11--12
+\T1/fxlj/m/n/10.95 frente. Muita gente vi-nha e me per-gun-tava, ``Al-berto, ma
+s como|
+ []
+
+[25
 
 
 
-]) [24] [25]
+]) [26] [27]
 \openout2 = `revberaldo/brasilia.aux'.
 
- (./revberaldo/brasilia.tex [26
+ (./revberaldo/brasilia.tex [28
 
 
 
-] [27] [28]) [29]
+] [29] [30]) [31]
 \openout2 = `revberaldo/propp_conto.aux'.
 
 
-(./revberaldo/propp_conto.tex [30
+(./revberaldo/propp_conto.tex [32
 
 
 
-] [31]) [32]
+] [33] [34]) [35]
 \openout2 = `revberaldo/deputado_invisivel.aux'.
 
 
-(./revberaldo/deputado_invisivel.tex [33
+(./revberaldo/deputado_invisivel.tex [36
 
 
 
-] (./decoracao.tex
+] [37] (./decoracao.tex
 
 Package libertinecomp Warning: Use <libertineglyph> or <biolinumglyph> instead!
  on input line 2.
@@ -1207,144 +1180,194 @@ LaTeX Font Info:    Try loading font information for U+fxl20 on input line 2.
 File: ufxl20.fd 2010/08/30 scaled font definitions for libertine U/fxl20 (Nm).
 )
 LaTeX Font Info:    Font shape `U/fxl20/m/n' will be
-(Font)              scaled to size 24.88pt on input line 2.
-) [34] [35]
+(Font)              scaled to size 20.74pt on input line 2.
+) [38] [39]
 (./decoracao.tex
 
 Package libertinecomp Warning: Use <libertineglyph> or <biolinumglyph> instead!
  on input line 2.
 
-) [36]) [37] [38
+) [40]) [41] [42
 
 
-] [39] [40]
+] [43] [44]
 \openout2 = `dub/deus_sistema_digestivo.aux'.
 
- (./dub/deus_sistema_digestivo.tex [41
+ (./dub/deus_sistema_digestivo.tex
+Overfull \hbox (0.2187pt too wide) in paragraph at lines 7--8
+[]\T1/fxlj/m/n/10.95 Adão: Pra que que serve isso, Deus? Posso co-lo-car na boc
+a? |
+ []
+
+[45
 
 
-]) [42]
+]) [46]
 \openout2 = `dub/cao_gato.aux'.
 
-
-(./dub/cao_gato.tex [43
-
+ (./dub/cao_gato.tex [47
 
 
-] [44] [45] [46] [47] [48] [49] [50] [51] [52] [53])
-[54]
+
+]
+Overfull \hbox (0.5362pt too wide) in paragraph at lines 57--58
+[]\T1/fxlj/m/n/10.95 Depois do útero, acre-dito que o pen-sa-mento se-ria algo 
+tipo: |
+ []
+
+[48] [49] [50] [51] [52] [53] [54]
+Overfull \hbox (3.58035pt too wide) in paragraph at lines 222--223
+[]\T1/fxlj/m/n/10.95 Alimentação sau-dá-vel quer di-zer que eu não es-tou co-me
+ndo|
+ []
+
+[55] [56] [57] [58]) [59]
 \openout2 = `dub/martelo.aux'.
 
- (./dub/martelo.tex [55
+ (./dub/martelo.tex [60
 
 
 
-] [56]) [57]
+] [61] [62]) [63]
 \openout2 = `dub/vai_pro_inferno.aux'.
 
- (./dub/vai_pro_inferno.tex [58
+
+(./dub/vai_pro_inferno.tex [64
 
 
 
 ]
-[59] [60] [61]) [62]
+Overfull \hbox (1.7152pt too wide) in paragraph at lines 13--14
+[]\T1/fxlj/m/n/10.95 Seu cé-re-bro ex-plo-diu mas você en-xerga...Não mais os s
+eus|
+ []
+
+[65] [66] [67]) [68]
 \openout2 = `dub/na_pascoa.aux'.
 
- (./dub/na_pascoa.tex [63
+ (./dub/na_pascoa.tex [69
 
 
 
-] [64] [65] [66]) [67] [68
+] [70] [71] [72]) [73] [74]
+[75
 
 
-]
-[69] [70]
+] [76]
 \openout2 = `peterson/realidade.aux'.
 
- (./peterson/realidade.tex
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                \kern 2.00006pt
-(hyperref)                removed on input line 1.
-
-[71
-
-
-] [72] [73] [74]) [75]
-\openout2 = `peterson/sem_data.aux'.
-
- (./peterson/sem_data.tex [76
-
-
-
-] [77] [78]) [79]
-\openout2 = `peterson/profissionalismo.aux'.
-
-
-(./peterson/profissionalismo.tex [80
-
-
-
-] [81] [82] [83] [84] [85] [86] [87]
-[88] [89] [90]) [91]
-\openout2 = `peterson/raul_e_sua_miservel_torta.aux'.
-
- (./peterson/raul_e_sua_miservel_torta.tex [92
-
-
-
-] [93]
-[94] [95]
-Underfull \hbox (badness 3668) in paragraph at lines 62--63
-[]\T1/fxlj/m/n/12 (+20) --- Se...Você...Comer...Essa...Essa torta...O re-
- []
-
-[96] [97] [98] [99] [100]) [101]
-\openout2 = `peterson/quase_natal.aux'.
-
- (./peterson/quase_natal.tex [102
-
-
-
-] [103]
-Underfull \hbox (badness 1515) in paragraph at lines 30--31
-[]\T1/fxlj/m/n/12 (+20) --- Não, mas aqui nin-guém dá a mí-nima pra ele
- []
-
-[104] [105] [106] [107] [108] [109]) [110]
-\openout2 = `peterson/devil.aux'.
-
- (./peterson/devil.tex [111
-
-
-
-] [112]
-[113] [114] [115] [116] [117] [118] [119] [120]) [121] [122
+ (./peterson/realidade.tex [77
 
 
 ]
+Overfull \hbox (1.83932pt too wide) in paragraph at lines 13--14
+[]\T1/fxlj/m/n/10.95 Enquanto es-co-vava os den-tes, fi-cou olhando fundo nos s
+eus|
+ []
+
+[78] [79] [80]) [81]
+\openout2 = `peterson/sem_data.aux'.
+
+ (./peterson/sem_data.tex [82
+
+
+
+]
+Overfull \hbox (1.24803pt too wide) in paragraph at lines 7--8
+[]\T1/fxlj/m/n/10.95 Apesar de ser vista como so-turna e pa-cata de-mais, ele a
+cha-|
+ []
+
+[83] [84]) [85]
+\openout2 = `peterson/profissionalismo.aux'.
+
+ (./peterson/profissionalismo.tex [86
+
+
+
+] [87]
+Overfull \hbox (0.78247pt too wide) in paragraph at lines 13--14
+\T1/fxlj/m/n/10.95 dis-tante de suas as-pi-ra-ções mais se-cre-tas. Suas as-pi-
+ra-ções eram|
+ []
+
+[88] [89] [90]
+Underfull \hbox (badness 1297) in paragraph at lines 42--43
+[]\T1/fxlj/m/n/10.95 Maurício pas-sou a tra-ba-lhar in-de-pen-den-te-mente, pel
+a
+ []
+
+[91] [92] [93] [94] [95] [96]) [97]
+\openout2 = `peterson/raul_e_sua_miservel_torta.aux'.
+
+ (./peterson/raul_e_sua_miservel_torta.tex
+[98
+
+
+
+] [99] [100] [101] [102] [103] [104] [105] [106]) [107]
+\openout2 = `peterson/quase_natal.aux'.
+
+
+(./peterson/quase_natal.tex [108
+
+
+
+] [109]
+Underfull \hbox (badness 4254) in paragraph at lines 30--31
+[]\T1/fxlj/m/n/10.95 --- Não, mas aqui nin-guém dá a mí-nima pra ele
+ []
+
+[110] [111] [112] [113] [114] [115]) [116]
+\openout2 = `peterson/devil.aux'.
+
+ (./peterson/devil.tex [117
+
+
+
+]
+Overfull \hbox (2.37222pt too wide) in paragraph at lines 13--14
+[]\T1/fxlj/m/n/10.95 De qual-quer forma...se era ver-dade ou não, eu es-tava pr
+es-|
+ []
+
+[118] [119] [120] [121] [122] [123]
+Overfull \hbox (0.20413pt too wide) in paragraph at lines 117--118
+[]\T1/fxlj/m/n/10.95 --- Porra, é claro, manda aí! --- eu sor-ria, bobo --- \T1
+/fxlj/m/it/10.95 Yay\T1/fxlj/m/n/10.95 ...Acho|
+ []
+
+
+Overfull \hbox (0.27351pt too wide) in paragraph at lines 119--120
+[]\T1/fxlj/m/n/10.95 --- Bom, calma, não é as-sim \T1/fxlj/m/it/10.95 tão sim-p
+les, haha\T1/fxlj/m/n/10.95 ! Manda aí...---|
+ []
+
+[124] [125] [126] [127]) [128]
 \openout2 = `big_five.aux'.
 
  (./big_five.tex
-Overfull \hbox (1.49576pt too wide) in paragraph at lines 3--5
- [] 
+Overfull \hbox (1.65192pt too wide) in paragraph at lines 3--5
+ [] |
  []
 
-[123
+[129
+
+
 
 ]
-Overfull \vbox (3.39491pt too high) has occurred while \output is active []
+Overfull \vbox (38.13873pt too high) has occurred while \output is active []
 
 
-[124]) [125]
+[130]) [131]
 \openout2 = `colofon.aux'.
 
- (./colofon.tex) [126
+ (./colofon.tex) [132
 
 
 ]
-\tf@toc=\write6
-\openout6 = `contos_discordianos.toc'.
+\tf@toc=\write5
+\openout5 = `contos_discordianos.toc'.
 
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 101.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 101.
@@ -1359,29 +1382,28 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 101.
 (./peterson/raul_e_sua_miservel_torta.aux) (./peterson/quase_natal.aux)
 (./peterson/devil.aux) (./big_five.aux) (./colofon.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 101.
-Package rerunfilecheck Info: File `contos_discordianos.out' has not changed.
-(rerunfilecheck)             Checksum: 8284774A0BB4E65465C303C88FE3D830;1476.
  ) 
 Here is how much of TeX's memory you used:
- 19599 strings out of 493738
- 262479 string characters out of 3148797
- 465229 words of memory out of 3000000
- 21909 multiletter control sequences out of 15000+200000
- 195240 words of font info for 390 fonts, out of 3000000 for 9000
+ 18858 strings out of 493738
+ 252573 string characters out of 3148797
+ 463164 words of memory out of 3000000
+ 21752 multiletter control sequences out of 15000+200000
+ 180710 words of font info for 96 fonts, out of 3000000 for 9000
  714 hyphenation exceptions out of 8191
- 42i,18n,46p,1441b,473s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,17n,45p,1441b,473s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-dist/fonts/enc/dvips/libertine/xl-20.enc}{/usr/share/texmf-
 dist/fonts/enc/dvips/libertine/xl-8x.enc}{/usr/share/texmf-dist/fonts/enc/dvips
 /base/8r.enc} </home/revberaldo/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/
-ectt0800.600pk></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><
-/usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/share/texm
-f-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/ty
-pe1/public/libertine/fxlb.pfb></usr/share/texmf-dist/fonts/type1/public/liberti
-ne/fxlr.pfb></usr/share/texmf-dist/fonts/type1/public/libertine/fxlri.pfb>
-Output written on contos_discordianos.pdf (140 pages, 1985125 bytes).
+ectt0800.525pk> </home/revberaldo/.texlive/texmf-var/fonts/pk/ljfour/jknappen/e
+c/ectt1095.600pk></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/share/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/
+type1/public/libertine/fxlb.pfb></usr/share/texmf-dist/fonts/type1/public/liber
+tine/fxlr.pfb></usr/share/texmf-dist/fonts/type1/public/libertine/fxlri.pfb>
+Output written on contos_discordianos.pdf (146 pages, 522329 bytes).
 PDF statistics:
- 856 PDF objects out of 1000 (max. 8388607)
- 664 compressed objects within 7 object streams
- 171 named destinations out of 1000 (max. 500000)
- 53978 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 569 PDF objects out of 1000 (max. 8388607)
+ 361 compressed objects within 4 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
