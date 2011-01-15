@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/Arch Linux) (format=pdflatex 2010.11.7)  15 JAN 2011 01:37
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010/Arch Linux) (format=pdflatex 2010.11.7)  15 JAN 2011 02:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -998,12 +998,12 @@ Package epstopdf Info: Source file: <logo_imprensa.eps>
 (epstopdf)                    size: 17517 bytes
 (epstopdf)             Command: <repstopdf --outfile=logo_imprensa-eps-converte
 d-to.pdf logo_imprensa.eps>
-(epstopdf)             \includegraphics on input line 28.
+(epstopdf)             \includegraphics on input line 31.
 Package epstopdf Info: Output file is already uptodate.
 
 <logo_imprensa-eps-converted-to.pdf, id=28, 240.9pt x 227.85126pt>
 LaTeX Font Info:    Font shape `T1/fxlj/m/sc' will be
-(Font)              scaled to size 7.0pt on input line 30.
+(Font)              scaled to size 7.0pt on input line 33.
  [6
 
 
@@ -1040,20 +1040,9 @@ LaTeX Font Info:    Font shape `T1/fxlj/m/it' will be
 ] [2]
 LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
 (Font)              scaled to size 10.0pt on input line 28.
-
-Overfull \hbox (1.50984pt too wide) in paragraph at lines 29--30
-\T1/fxlj/m/n/10 mismo, ou se-le-ci-o-nar si-nais caó-ti-cos e afir-mar que Deus
-|
- []
-
-[3] [4] [5]
-Overfull \hbox (0.72238pt too wide) in paragraph at lines 44--45
-[]\T1/fxlj/m/n/10.95 Logo, a his-tó-ria do dis-cor-di-a-nismo no Bra-sil passa 
-por aqui.|
- []
-
+ [3] [4] [5]
 LaTeX Font Info:    Font shape `T1/fxlj/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 50.
+(Font)              scaled to size 10.95pt on input line 52.
 ) [6] (./contos_discordianos.toc
 LaTeX Font Info:    Font shape `T1/fxlj/bx/n' in size <12> not available
 (Font)              Font shape `T1/fxlj/b/n' tried instead on input line 2.
@@ -1072,7 +1061,8 @@ LaTeX Font Info:    Font shape `T1/fxlj/b/sc' will be
  [7
 
 
-]) [8]
+])
+[8]
 LaTeX Font Info:    Font shape `T1/fxlj/m/n' will be
 (Font)              scaled to size 20.74pt on input line 66.
 LaTeX Font Info:    Font shape `T1/fxlj/bx/n' in size <20.74> not available
@@ -1091,14 +1081,14 @@ LaTeX Font Info:    Font shape `T1/fxlj/b/n' will be
 ] [2]
 \openout2 = `schneider/macacos.aux'.
 
- (./schneider/macacos.tex
-[3
+ (./schneider/macacos.tex [3
 
 
 ] [4] [5] [6]) [7]
 \openout2 = `schneider/ode.aux'.
 
- (./schneider/ode.tex [8
+ (./schneider/ode.tex
+[8
 
 
 
@@ -1108,18 +1098,17 @@ LaTeX Font Info:    Font shape `T1/fxlj/b/n' will be
 ] [12]
 \openout2 = `carol/diabo.aux'.
 
-
-(./carol/diabo.tex [13
+ (./carol/diabo.tex [13
 
 
 ] [14] [15] [16]) [17] [18
 
 
-] [19] [20]
+]
+[19] [20]
 \openout2 = `revberaldo/amor.aux'.
 
-
-(./revberaldo/amor.tex [21
+ (./revberaldo/amor.tex [21
 
 
 ] [22]
@@ -1131,46 +1120,35 @@ go quan-|
 [23]) [24]
 \openout2 = `revberaldo/o_hippie.aux'.
 
- (./revberaldo/o_hippie.tex
-Overfull \hbox (0.6511pt too wide) in paragraph at lines 11--12
-\T1/fxlj/m/n/10.95 prin-ci-pal-mente en-tre os jo-vens, exis-tia um con-flito m
-uito gran-|
- []
-
-
-Overfull \hbox (1.62564pt too wide) in paragraph at lines 11--12
-\T1/fxlj/m/n/10.95 frente. Muita gente vi-nha e me per-gun-tava, ``Al-berto, ma
-s como|
- []
-
-[25
+ (./revberaldo/o_hippie.tex [25
 
 
 
 ]) [26] [27]
 \openout2 = `revberaldo/brasilia.aux'.
 
- (./revberaldo/brasilia.tex [28
+
+(./revberaldo/brasilia.tex [28
 
 
 
 ] [29] [30]) [31]
 \openout2 = `revberaldo/propp_conto.aux'.
 
-
-(./revberaldo/propp_conto.tex [32
+ (./revberaldo/propp_conto.tex
+[32
 
 
 
 ] [33] [34]) [35]
 \openout2 = `revberaldo/deputado_invisivel.aux'.
 
-
-(./revberaldo/deputado_invisivel.tex [36
-
+ (./revberaldo/deputado_invisivel.tex [36
 
 
-] [37] (./decoracao.tex
+
+] [37]
+(./decoracao.tex
 
 Package libertinecomp Warning: Use <libertineglyph> or <biolinumglyph> instead!
  on input line 2.
@@ -1400,7 +1378,7 @@ c/ectt1095.600pk></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 xmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texmf-dist/fonts/
 type1/public/libertine/fxlb.pfb></usr/share/texmf-dist/fonts/type1/public/liber
 tine/fxlr.pfb></usr/share/texmf-dist/fonts/type1/public/libertine/fxlri.pfb>
-Output written on contos_discordianos.pdf (146 pages, 522275 bytes).
+Output written on contos_discordianos.pdf (146 pages, 522260 bytes).
 PDF statistics:
  569 PDF objects out of 1000 (max. 8388607)
  361 compressed objects within 4 object streams
