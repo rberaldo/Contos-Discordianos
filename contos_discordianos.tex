@@ -1,16 +1,16 @@
-\documentclass[11pt,openright,draft,twoside,extrafonts,a5paper]{memoir}
-\usepackage[utf8]{inputenc}
-\usepackage[T1]{fontenc}
-\usepackage[english,brazilian]{babel}
-\usepackage[osf]{libertine}
-\usepackage{libertinecomp}
+\documentclass[11pt,openright,final,twoside,a5paper]{memoir}
+\usepackage{fontspec}
+	%Configurando o fontspec
+	\fontspec{Linux Libertine}
+	\setmainfont[Numbers=OldStyle,Ligatures=TeX]{Linux Libertine}
+\usepackage[english,portuguese]{babel}
 \usepackage{hyperref}
-%Configurando as propriedades do PDF
-\hypersetup{
-pdfauthor={Carol, Duubhglass, Schneider, Peterson, Beraldo},
-pdftitle={Contos Discordianos},
-pdfkeywords={discordianismo, contos, literatura, fnord}
-}
+	%Configurando as propriedades do PDF
+	\hypersetup{
+	pdfauthor={Carol, Duubhglass, Schneider, Peterson, Beraldo},
+	pdftitle={Contos Discordianos},
+	pdfkeywords={discordianismo, contos, literatura, fnord}
+	}
 
 \usepackage{leading,graphicx,epstopdf,makeidx,pdfpages,microtype}
 \makeindex
@@ -45,7 +45,7 @@ pdfkeywords={discordianismo, contos, literatura, fnord}
 
 % Algumas definições puramente tipográficas
 \pagestyle{bringhurst}
-\setlength{\parskip}{2pt plus2mm minus1mm}
+\setlength{\parskip}{1pt plus1pt minus1pt}
 \frenchspacing
 
 % Inclusão da capa com o pdfpages:
