@@ -28,12 +28,14 @@
 	\makeoddfoot{bringhurst}{}{}{\thepage}
 
 % Melhorando a ToC
-\addtodef{\tableofcontents}{\cleardoublepage\pagestyle{empty}}{}
+\addtodef{\tableofcontents*}{\protect\cleardoublepage\pagestyle{empty}}{}
+\addtocontents{toc}{\protect\thispagestyle{empty}} 
 \setlength{\cftbeforechapterskip}{2.3pt plus 2.3pt}
 \renewcommand*{\insertchapterspace}{}
 
 % Tirando o número da página do \part
 \aliaspagestyle{part}{empty}
+\aliaspagestyle{tableofcontents}{empty}
 
 % Tirando o escrito “Parte x” do \part
 \renewcommand{\printpartname}{}
@@ -45,7 +47,7 @@
 \begin{document}
 
 % Algumas definições puramente tipográficas
-\pagestyle{bringhurst}
+\pagestyle{empty}
 \setlength{\parskip}{1pt plus1pt minus1pt}
 \frenchspacing
 
@@ -57,11 +59,13 @@
 \include{titlepage}
 \include{copyright}
 
-\frontmatter
-	\include{introducao}
-	\tableofcontents*
+\tableofcontents*
 
 \mainmatter
+\clearpage\pagestyle{bringhurst}
+\newpage
+	\include{introducao}
+
 \pagestyle{bringhurst}
 
 	\part{Felipe Schneider}
