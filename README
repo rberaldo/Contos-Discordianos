@@ -1,30 +1,42 @@
-``Contos discordianos'', é uma realização da Sociedade Discordiana, 
+``Contos discordianos'' é uma realização da Sociedade Discordiana,
 representada pelos autores dos contos. São eles:
 
-	* Carol Peters <missbelavista at gmail dot com>;
-	* Felipe Schneider <dudektria at gmail dot com>;
-	* Douglas Domingues <duubhs at gmail dot com>;
-	* Peterson Espaçoporto <peterson.235 at gmail dot com>;
-	* Rafael Beraldo <revberaldo at devio dot us>.
+	* Carol Peters <missbelavista at gmail dot com>; Felipe
+	* Schneider <dudektria at gmail dot com>; Douglas Domingues
+	* <duubhs at gmail dot com>; Peterson Espaçoporto
+	* <peterson.235 at gmail dot com>; Rafael Beraldo <revberaldo
+	* at devio dot us>.
 
-A arte da capa é de Hugo Bonfatti Delgado <hugobdelgado at gmail dot com>
-e a introdução foi escrita por Ibrahim Cesar <discordianismo at gmail dot com>.
+A arte da capa é de Hugo Bonfatti Delgado <hugobdelgado at gmail dot
+com> e a introdução foi escrita por Ibrahim Cesar <discordianismo at
+gmail dot com>.
 
-=========================
-COMO OBTER UMA CÓPIA
+==================== 
+     HISTÓRIA 
+====================
+
+Este projeto teve início em meados de abril de 2010 e foi concluído no
+início do mês de maio de 2011. Durante mais de um ano, os autores
+resolveram problemas tipográficos, ortográficos e sintáticos. A
+história desse livro, é claro, se extende por toda a experiência de
+vida de quem participou -- por uma questão de brevidade, prefirimos
+parar aqui.
+
+========================= 
+  COMO OBTER UMA CÓPIA
 =========================
 
 Se você possui o GIT instalado em seu computador, basta o comando
 
-	git://github.com/revberaldo/Contos-Discordianos.git
+	git://github.com/rberaldo/Contos-Discordianos.git
 
-que irá copiar todos os arquivos no repositório. Você também 
-pode acessar o endereço <http://github.com/revberaldo/Contos-Discordianos> 
+que irá copiar todos os arquivos no repositório. Você também pode
+acessar o endereço <http://github.com/rberaldo/Contos-Discordianos>
 para fazer o download dos arquivos.
 
-=======================
-	COPYING
+======================= 
+        COPYING 
 =======================
 
-O livro é distribuído segundo a licença Creative Commons 3.0, 
+O livro é distribuído segundo a licença Creative Commons 3.0,
 disponível em <http://creativecommons.org/licenses/by-nc-sa/3.0/br/>.
